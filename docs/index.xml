@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MindAPI</title>
-    <link>https://dsopas.github.io/MindAPI/docs/</link>
+    <link>https://dsopas.github.io/MindAPI/</link>
     <description>Recent content on MindAPI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dsopas.github.io/MindAPI/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dsopas.github.io/MindAPI/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://dsopas.github.io/MindAPI/docs/about/</link>
+      <link>https://dsopas.github.io/MindAPI/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dsopas.github.io/MindAPI/docs/about/</guid>
+      <guid>https://dsopas.github.io/MindAPI/about/</guid>
       <description>I love mindmaps. They help keep my methodology when doing security research or brainstorming with my collegues. With that in mind I decided to spread some love in the community by creating MindAPI.
 Nowadays APIs are part of all modern applications. Creating something that could help the security community to assess an API and at the same time help me by keeping my work organized its a win-win.
 MindAPI is a mindmap which combines years of experience in testing API security.</description>
@@ -19,19 +19,19 @@ MindAPI is a mindmap which combines years of experience in testing API security.
     
     <item>
       <title>Project</title>
-      <link>https://dsopas.github.io/MindAPI/docs/project/</link>
+      <link>https://dsopas.github.io/MindAPI/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dsopas.github.io/MindAPI/docs/project/</guid>
+      <guid>https://dsopas.github.io/MindAPI/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>References</title>
-      <link>https://dsopas.github.io/MindAPI/docs/references/</link>
+      <link>https://dsopas.github.io/MindAPI/references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dsopas.github.io/MindAPI/docs/references/</guid>
+      <guid>https://dsopas.github.io/MindAPI/references/</guid>
       <description></description>
     </item>
     
