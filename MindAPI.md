@@ -191,7 +191,7 @@
 ###### Check that keys and secrets are different between ENV
 
 ###### Documentation
-- [https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a]
+- <https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a>
 
 ##### OAuth
 - Test redirect_uri for open redirects
@@ -199,3 +199,27 @@
 - Test CSRF
 
 ##### Basic Auth
+
+### API3 - Excessive Data Exposure
+- Check if the API returns full data objects from database with sensitive data
+- Compare client data with the API response to check if the filtering is done by client side
+- Sniff the traffic to check for sensitive data returned by the API
+
+### API4 - Lack of Resources & Rate Limiting
+
+#### Execution timeouts
+
+#### Test brute-force attacks
+
+#### Max allocable memory
+
+#### Number of file descriptors
+
+#### Number of processes
+
+#### Request payload size (e.g. uploads)
+
+#### Number of requests per client/resource
+- [Astra](https://github.com/flipkart-incubator/Astra)
+
+#### Number of records per page to return in a single request response
