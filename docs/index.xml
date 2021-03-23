@@ -32,7 +32,8 @@ MindAPI is a mindmap which combines years of experience in testing API security.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dsopas.github.io/MindAPI/references/</guid>
-      <description>Future references related to API Security will be placed here.</description>
+      <description>Here you can find a variaty of resources to help you out on the API security path.
+Talks / Educational Videos / Recorded Webinars  OWASP API Security Top 10 by Erez Yalon &amp;amp; Inon Shkedy Meetups at Checkmarx: An Introduction to API Security Meetups at Checkmarx: API Security Concerns (Part II) Don’t Worry, Be API: Addressing AppSec’s Newest Challenge Common API security pitfalls by Philippe De Ryck API (in)Security TOP 10: Guided tour Top 10 API Bugs (and Where to Find Them) How To Do Recon: API Enumeration Hunting for bugs in GraphQL APIs (Demo) Finding Your Next Bug: GraphQL REST in Peace: Abusing GraphQL to Attack Underlying Infrastructure Hidden in Plain Site: Disclosing Information via Your APIs Bad API, hAPI Hackers!</description>
     </item>
     
   </channel>
