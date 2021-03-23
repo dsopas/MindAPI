@@ -99,9 +99,9 @@
 - `nuclei -target TARGET.TLD -t exposures/apis/`
 - <https://github.com/projectdiscovery/nuclei>
 
-## OWASP API Security Top10
+## Testing
 
-### API1 - Broken Object Level Authorization
+### Broken Object Level Authorization
 
 #### Endpoint receives an ID?
 
@@ -136,7 +136,7 @@
 - <https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa1-broken-object-level-authorization.md>
 - <https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/>
 
-### API2 - Broken Authentication
+### Broken Authentication
 
 #### Test
 
@@ -200,12 +200,12 @@
 
 ##### Basic Auth
 
-### API3 - Excessive Data Exposure
+### Excessive Data Exposure
 - Check if the API returns full data objects from database with sensitive data
 - Compare client data with the API response to check if the filtering is done by client side
 - Sniff the traffic to check for sensitive data returned by the API
 
-### API4 - Lack of Resources & Rate Limiting
+### Lack of Resources & Rate Limiting
 
 #### Execution timeouts
 
@@ -221,5 +221,54 @@
 
 #### Number of requests per client/resource
 - [Astra](https://github.com/flipkart-incubator/Astra)
+- [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
 
 #### Number of records per page to return in a single request response
+- [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+
+### Broken Function Level Authorization
+- Can a regular user access administrative endpoints? (MindAPI recon can help you here)
+- Testing different HTTP methods (GET, POST, PUT, DELETE, PATCH) will allow level escalation?
+- Enumerate/Bruteforce endpoints for getting unauthorized requests (MindAPI recon can help you here)
+
+### Mass Assignment
+- An API endpoint is vulnerable if it automatically converts client parameters into internal object properties, without considering the sensitivity and the exposure level of these properties. This could allow an attacker to update object properties that they should not have access to.
+- Sensitive properties
+- Permission-related properties: user.is_admin, user.is_vip should only be set by admins.
+- Process-dependent properties: user.cash should only be set internally after payment verification.
+- Internal properties: article.created_time should only be set internally by the application.
+
+### Security Misconfiguration
+
+#### The latest security patches are missing, or the systems are out of date.
+
+#### Can you use other HTTP verbs?
+
+#### Test if Transport Layer Security (TLS) is missing
+
+#### Test for security headers
+- [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+
+#### CORS is well configured?
+- [Astra](https://github.com/flipkart-incubator/Astra)
+- [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+
+#### Force an error to see if any sensitive information is exposed
+
+### Injection 
+
+#### Test if user input is validated, filtered, or sanitized by the API
+- [Astra](https://github.com/flipkart-incubator/Astra)
+- [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+
+#### Test if client data is used or concat into DB queres, OS commands, etc
+- [Astra](https://github.com/flipkart-incubator/Astra)
+- [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+
+#### Check if incoming data from external systems is validated, filtered, or sanitized by the API
+
+### Improper Assets Management
+- Check for the API documention (MindAPI recon can help you here)
+- Hosts inventory is missing or outdated.
+- Integrated services inventory, either first- or third-party, is missing or outdated.
+- Old or previous API versions are running unpatched.
