@@ -42,6 +42,9 @@
 ### Search for APIs
 
 #### Traffic Analysis
+- [Burp CE](https://portswigger.net/burp/communitydownload)
+- [ZAP](https://www.zaproxy.org/)
+- [mitmproxy](https://mitmproxy.org/)
 
 #### Wayback Machine
 - <https://archive.org/web/>
@@ -63,7 +66,6 @@
 - <https://github.com/search?q=target.tld+%2Bapi>
 
 #### API Directories
-
 - <https://apis.guru/browse-apis/>
 - <https://apilist.fun/>
 - <https://apiharmony-open.mybluemix.net/public>
@@ -140,10 +142,6 @@
 - [InQL](https://github.com/doyensec/inql)
 - [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
 
-#### Documentation
-- <https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa1-broken-object-level-authorization.md>
-- <https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/>
-
 ### Broken Authentication
 
 #### Test
@@ -199,9 +197,6 @@
 ###### Check for time constant verification for HMAC
 
 ###### Check that keys and secrets are different between ENV
-
-###### Documentation
-- <https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a>
 
 ##### OAuth
 - Test redirect_uri for open redirects
