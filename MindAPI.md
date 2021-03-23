@@ -99,6 +99,14 @@
 - `nuclei -target TARGET.TLD -t exposures/apis/`
 - <https://github.com/projectdiscovery/nuclei>
 
+##### Arjun
+- `arjun -u https://api.TARGET.TLD/endpoint`
+- <https://github.com/s0md3v/Arjun>
+
+##### TnT-Fuzzer
+- `tntfuzzer --url https://TARGET.TLD/v2/swagger.json --iterations 100 --log_all`
+- <https://github.com/Teebytes/TnT-Fuzzer>
+
 ## Testing
 
 ### Broken Object Level Authorization
@@ -174,10 +182,12 @@
 - [jwt_tool](https://github.com/ticarpi/jwt_tool)
 - [jwt_cracker](https://github.com/lmammino/jwt-cracker)
 - [jwtcat](https://github.com/aress31/jwtcat)
+- [apicheck](https://github.com/BBVA/apicheck)
 
 ###### Test if algorithm could be changed
 - [jwt.io](https://jwt.io/#debugger-io)
 - [jwtcat](https://github.com/aress31/jwtcat)
+- [apicheck](https://github.com/BBVA/apicheck)
 
 ###### Test token expiration time (TTL, RTTL)
 
@@ -201,9 +211,13 @@
 ##### Basic Auth
 
 ### Excessive Data Exposure
-- Check if the API returns full data objects from database with sensitive data
-- Compare client data with the API response to check if the filtering is done by client side
-- Sniff the traffic to check for sensitive data returned by the API
+
+#### Check if the API returns full data objects from database with sensitive data
+- [apicheck](https://github.com/BBVA/apicheck)
+
+#### Compare client data with the API response to check if the filtering is done by client side
+
+#### Sniff the traffic to check for sensitive data returned by the API
 
 ### Lack of Resources & Rate Limiting
 
@@ -245,6 +259,7 @@
 #### Can you use other HTTP verbs?
 
 #### Test if Transport Layer Security (TLS) is missing
+- [testssl](https://testssl.sh/)
 
 #### Test for security headers
 - [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
@@ -260,10 +275,14 @@
 #### Test if user input is validated, filtered, or sanitized by the API
 - [Astra](https://github.com/flipkart-incubator/Astra)
 - [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+- [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
+- [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
 
 #### Test if client data is used or concat into DB queres, OS commands, etc
 - [Astra](https://github.com/flipkart-incubator/Astra)
 - [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+- [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
+- [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
 
 #### Check if incoming data from external systems is validated, filtered, or sanitized by the API
 
