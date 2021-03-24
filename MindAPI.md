@@ -213,6 +213,9 @@
 #### Compare client data with the API response to check if the filtering is done by client side
 
 #### Sniff the traffic to check for sensitive data returned by the API
+- [Burp CE](https://portswigger.net/burp/communitydownload)
+- [ZAP](https://www.zaproxy.org/)
+- [mitmproxy](https://mitmproxy.org/)
 
 ### Lack of Resources & Rate Limiting
 
@@ -225,6 +228,8 @@
 #### Number of file descriptors
 
 #### Number of processes
+- [racepwn](https://github.com/racepwn/racepwn)
+- [Race The Web](https://github.com/TheHackerDev/race-the-web)
 
 #### Request payload size (e.g. uploads)
 
