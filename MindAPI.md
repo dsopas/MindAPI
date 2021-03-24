@@ -241,11 +241,34 @@
 - Enumerate/Bruteforce endpoints for getting unauthorized requests (MindAPI recon can help you here)
 
 ### Mass Assignment
-- An API endpoint is vulnerable if it automatically converts client parameters into internal object properties, without considering the sensitivity and the exposure level of these properties. This could allow an attacker to update object properties that they should not have access to.
-- Sensitive properties
-- Permission-related properties: user.is_admin, user.is_vip should only be set by admins.
-- Process-dependent properties: user.cash should only be set internally after payment verification.
-- Internal properties: article.created_time should only be set internally by the application.
+
+#### Enumerate object properties
+
+- API documentation (Reconnaissance)
+- Inspect available API clients' network traffic
+  - Desktop
+  - Mobile
+  - Web
+- Exercise data retrieval endpoints
+  - watch-out for `?include=user.addresses,user.cards`-like parameters
+- Uncover hidden properties
+    - Guessing, based on API context
+    - Reverse engineering available API clients
+    - Fuzzing
+      - GraphQL
+        - [ShapeShifter](https://github.com/szski/shapeshifter) ([demo](https://www.youtube.com/watch?v=NPDp7GHmMa0&t=2580))
+  
+#### Craft request payloads
+
+- Include augmented objects
+  - One additional property at a time
+  - Possible combinations of properties
+  - All enumerated properties at once
+- Vary properties data types/values
+  - Number, String, Array, Object
+  - State values: `to-do` -> `in-progress` -> `done` (keep in mind possible state transitions)
+- Test different operation types
+  - Create
 
 ### Security Misconfiguration
 
