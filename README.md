@@ -3,8 +3,6 @@
 [![Issues][issues-shield]][issues-url]
 
 
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/dsopas/MindAPI/">
@@ -24,8 +22,6 @@
   </p>
 </p>
 
-
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -43,9 +39,6 @@
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://dsopas.github.io/MindAPI/)
@@ -91,7 +84,7 @@ David Sopas - [@dsopas](https://twitter.com/dsopas) - davidsopas@gmail.com
 Project Link: [https://dsopas.github.io/MindAPI/](https://dsopas.github.io/MindAPI/)
 
 ## Acknowledgements
-* [@pauloasilva_com](https://twitter.com/pauloasilva_com)
+* [Paulo Silva @pauloasilva_com](https://twitter.com/pauloasilva_com)
 
 [forks-shield]: https://img.shields.io/github/forks/dsopas/MindAPI?style=for-the-badge
 [forks-url]: hhttps://github.com/dsopas/MindAPI/network/members
