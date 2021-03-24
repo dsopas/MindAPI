@@ -84,7 +84,7 @@ David Sopas - [@dsopas](https://twitter.com/dsopas) - davidsopas@gmail.com
 Project Link: [https://dsopas.github.io/MindAPI/](https://dsopas.github.io/MindAPI/)
 
 ## Acknowledgements
-* [Paulo Silva @pauloasilva_com](https://twitter.com/pauloasilva_com)
+* Paulo Silva [@pauloasilva_com](https://twitter.com/pauloasilva_com)
 
 [forks-shield]: https://img.shields.io/github/forks/dsopas/MindAPI?style=for-the-badge
 [forks-url]: hhttps://github.com/dsopas/MindAPI/network/members
