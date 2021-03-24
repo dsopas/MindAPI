@@ -187,6 +187,7 @@
 - [jwt.io](https://jwt.io/#debugger-io)
 - [jwtcat](https://github.com/aress31/jwtcat)
 - [apicheck](https://github.com/BBVA/apicheck)
+- [JSON Web Token Attacker](https://portswigger.net/bappstore/82d6c60490b540369d6d5d01822bdf61)
 
 ###### Test token expiration time (TTL, RTTL)
 
@@ -201,6 +202,7 @@
 
 ##### OAuth
 - Test redirect_uri for open redirects
+- Test redirect_uri for XSS
 - Test the existence of response_type=token
 - Test CSRF
 
