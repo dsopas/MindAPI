@@ -141,6 +141,7 @@
 - [apidor](https://github.com/bncrypted/apidor)
 - [InQL](https://github.com/doyensec/inql)
 - [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
+- [Autorize](https://github.com/PortSwigger/autorize)
 
 ### Broken Authentication
 
