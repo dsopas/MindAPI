@@ -1,0 +1,57 @@
+baseURL = "https://dsopas.github.io/MindAPI/"
+languageCode = "en-us"
+title = "MindAPI"
+theme = "minimal"
+googleAnalytics = ""
+
+[params]
+    author = "David Sopas"
+    description = "Bringing order to API hacking caos"
+    githubUsername = "dsopas"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Blinker" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    css = [ "css/custom.css" ]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+[[menu.main]]
+    url = "/references/"
+    name = "References"
+    weight = 3
+
+[[menu.main]]
+    url = "/play/"
+    name = "Play"
+    weight = 4
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:davidsopas@gmail.com"
+    name = "fas fa-envelope"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/dsopas/MindAPI"
+    name = "fab fa-github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/dsopas/"
+    name = "fab fa-twitter"
+    weight = 3

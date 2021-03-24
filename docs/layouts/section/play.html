@@ -1,0 +1,23 @@
+{{ partial "header" . }}
+
+<main id="markmap">
+  <svg id="mindmap"></svg>
+  <script src="https://cdn.jsdelivr.net/npm/d3@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.7.11/dist/browser/view.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.7.11/dist/browser/transform.min.js"></script>
+  <script>
+    (async () => {
+      const URL = 'https://raw.githubusercontent.com/dsopas/MindAPI/main/MindAPI.md';
+      try {
+        const response = await fetch(URL);
+        const markdown = await response.text();
+        const data = markmap.transform(markdown);
+        markmap.Markmap.create("#mindmap", null, data);
+      } catch (e) {
+        console.error(e);
+      }
+    })();
+  </script>
+</main>
+
+{{ partial "footer" . }}
