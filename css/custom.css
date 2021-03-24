@@ -1,0 +1,22 @@
+body {
+  text-align: left;
+}
+footer {
+  text-align: center;
+}
+#mindmap {
+  width: 100%;
+  height: 100%;
+}
+#markmap {
+  max-width: 100% !important;
+  width:100%
+}
+main div.intro {
+  text-align: center;
+}
+.homepage-content {
+  position: relative;
+  top: -210px;
+  z-index: -1;
+}
