@@ -32,6 +32,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Hacking JSON Web Tokens (JWTs)](https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a)
 - [Methods to Bypass Rate Limit](https://huzaifa-tahir.medium.com/methods-to-bypass-rate-limit-5185e6c67ecd)
 - [Regex For Finding Popular Keys](https://github.com/odomojuli/RegExAPI)
+- [Leveraging Exposed WADL XML in Burp Suite](https://www.nopsec.com/leveraging-exposed-wadl-xml-in-burp-suite/)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
