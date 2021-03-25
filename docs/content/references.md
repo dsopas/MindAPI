@@ -30,6 +30,8 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [REST-ler: Automatic Intelligent REST API Fuzzing](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/restler.pdf)
 - [How-To: Find IDOR (Insecure Direct Object Reference) Vulnerabilities for large bounty rewards](https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/)
 - [Hacking JSON Web Tokens (JWTs)](https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a)
+- [Methods to Bypass Rate Limit](https://huzaifa-tahir.medium.com/methods-to-bypass-rate-limit-5185e6c67ecd)
+- [Regex For Finding Popular Keys](https://github.com/odomojuli/RegExAPI)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
@@ -38,3 +40,8 @@ Here you can find a variaty of resources to help you out on the API security pat
 
 ## Writeups
 - [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e)
+- [How we could have listened to anyone's call recordings](https://www.pingsafe.ai/blog/how-we-could-have-listened-to-anyones-call-recordings)
+- [How I Might Have Hacked Any Microsoft Account](https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account)
+- [How we could have tracked anyone's live location using Truecaller's "Guardians" app](https://www.pingsafe.ai/blog/hacking-truecallers-guardian-application-to-track-you)
+- [Enumerate internal cached URLs which lead to data exposure](https://ysamm.com/?p=629)
+- [All That We Let In: Hacking mHealth Apps and APIs](https://alissaknight.medium.com/all-that-we-let-in-hacking-mhealth-apps-and-apis-part-2-1a55b928ce67)
