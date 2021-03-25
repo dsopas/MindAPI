@@ -49,6 +49,8 @@
 
 #### Wayback Machine
 - <https://archive.org/web/>
+- [waybackurls](https://github.com/tomnomnom/waybackurls)
+- [gau](https://github.com/lc/gau)
 
 #### Path Manipulation
 - /api/v1
@@ -105,6 +107,13 @@
 ##### Arjun
 - `arjun -u https://api.TARGET.TLD/endpoint`
 - <https://github.com/s0md3v/Arjun>
+
+##### ParamSpider
+- `python3 paramspider.py --domain TARGET.TLD`
+- <https://github.com/devanshbatham/ParamSpider>
+
+##### param-miner
+- <https://github.com/PortSwigger/param-miner>
 
 ##### TnT-Fuzzer
 - `tntfuzzer --url https://TARGET.TLD/v2/swagger.json --iterations 100 --log_all`
