@@ -110,6 +110,15 @@
 - `tntfuzzer --url https://TARGET.TLD/v2/swagger.json --iterations 100 --log_all`
 - <https://github.com/Teebytes/TnT-Fuzzer>
 
+### Supported Content Types
+
+- Play with request URL
+  - Requested resource extension e.g. replacing `.json` by `.xml`
+  - Query string e.g. replacing `?json` by `?xml` or `?format=json` by `?format=xml`
+- Play with `Content-Type` request header and payload
+  - Without `Content-Type`, submit either `json`, `xml`, ...
+  - Changing `Content-Type` and payload accordingly
+
 ## Testing
 
 ### Broken Object Level Authorization
