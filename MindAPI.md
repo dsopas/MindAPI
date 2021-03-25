@@ -165,7 +165,7 @@
 - Registration
 
 ###### Type
-- Plaintext
+- Plain text
 - Weak encryption
 - Weak hash algorithm
 
@@ -305,7 +305,7 @@
 - [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
 - [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
 
-#### Test if client data is used or concat into DB queres, OS commands, etc
+#### Test if client data is used or concat into DB queries, OS commands, etc
 - [Astra](https://github.com/flipkart-incubator/Astra)
 - [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
 - [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
@@ -314,7 +314,7 @@
 #### Check if incoming data from external systems is validated, filtered, or sanitized by the API
 
 ### Improper Assets Management
-- Check for the API documention (MindAPI recon can help you here)
+- Check for the API documentation (MindAPI recon can help you here)
 - Hosts inventory is missing or outdated.
 - Integrated services inventory, either first- or third-party, is missing or outdated.
 - Old or previous API versions are running unpatched.
