@@ -37,5 +37,4 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Pixi](https://github.com/DevSlop/Pixi)
 
 ## Writeups
-
-### Todo :)
+- [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e)
