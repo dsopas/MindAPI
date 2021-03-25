@@ -299,6 +299,13 @@
 
 #### Force an error to see if any sensitive information is exposed
 
+#### GraphQL
+
+- [Introspection Query and/or GraphiQL is enabled](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html#introspection-graphiql)
+- GraphQL server provides fields name hints
+- [Query batching is enabled without limit](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html#batching-attacks)
+- [Unlimited Depth and/or Amount](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html#query-limiting-depth-amount)
+
 ### Injection 
 
 #### Test if user input is validated, filtered, or sanitized by the API
