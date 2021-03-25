@@ -31,6 +31,7 @@
 
 ##### WSDL
 - ?wsdl
+  - [wsdl-wizard](https://github.com/portswigger/wsdl-wizard)
 
 ##### GraphQL
 - <https://graphql.org/learn/introspection/>
