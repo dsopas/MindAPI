@@ -5,7 +5,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/dsopas/MindAPI/">
+  <a href="https://dsopas.github.io/MindAPI/">
     <img src="https://dsopas.github.io/MindAPI/mindapi.png" alt="Logo" width="400">
   </a>
 
@@ -14,7 +14,7 @@
   <p align="center">
     Bringing order to API hacking caos!
     <br />
-    <a href="https://dsopas.github.io/MindAPI/play/">View Demo</a>
+    <a href="https://dsopas.github.io/MindAPI/play/">View Online</a>
     ·
     <a href="https://github.com/dsopas/MindAPI/issues">Report Bug</a>
     ·
@@ -69,7 +69,14 @@ See the [open issues](https://github.com/dsopas/MindAPI/issues) for a list of pr
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Commit your Changes 
+2. Commit your Changes (File: **MindAPI.md**) 
+3. Push to the Branch
+4. Open a Pull Request
+
+BUT you can also update the [References](https://dsopas.github.io/MindAPI/references/) page on the site project. 
+
+1. Fork the Project
+2. Commit your Changes (File: **/docs/content/references.md**)
 3. Push to the Branch
 4. Open a Pull Request
 
