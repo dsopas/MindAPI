@@ -223,6 +223,7 @@
 ### Lack of Resources & Rate Limiting
 
 #### Execution timeouts
+- [Regexploit](https://github.com/doyensec/regexploit)
 
 #### Test brute-force attacks
 
