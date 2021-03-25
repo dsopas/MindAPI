@@ -278,6 +278,7 @@
   - State values: `to-do` -> `in-progress` -> `done` (keep in mind possible state transitions)
 - Test different operation types
   - Create
+  - Update
 
 ### Security Misconfiguration
 
