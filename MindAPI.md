@@ -104,6 +104,10 @@
 - `nuclei -target TARGET.TLD -t exposures/apis/`
 - <https://github.com/projectdiscovery/nuclei>
 
+##### Jaeles
+- `jaeles scan -s /jaeles-signatures/sensitive/swagger-ui-probing.yaml -u TARGET.TLD`
+- <https://github.com/jaeles-project/jaeles>
+
 ##### Arjun
 - `arjun -u https://api.TARGET.TLD/endpoint`
 - <https://github.com/s0md3v/Arjun>
