@@ -16,6 +16,7 @@
 - <https://www.howtographql.com/basics/1-graphql-is-the-better-rest/>
 - <https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/>
 - <https://www.soapui.org/docs/rest-testing/working-with-rest-services/>
+- <https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them>
 
 ### Check for documentation
 
