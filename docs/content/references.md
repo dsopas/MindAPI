@@ -33,6 +33,8 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Methods to Bypass Rate Limit](https://huzaifa-tahir.medium.com/methods-to-bypass-rate-limit-5185e6c67ecd)
 - [Regex For Finding Popular Keys](https://github.com/odomojuli/RegExAPI)
 - [Leveraging Exposed WADL XML in Burp Suite](https://www.nopsec.com/leveraging-exposed-wadl-xml-in-burp-suite/)
+- [How Unsecure gRPC Implementations Can Compromise APIs](https://www.trendmicro.com/en_us/research/20/h/how-unsecure-grpc-implementations-can-compromise-apis.html)
+- [Pentesting gRPC / Protobuf : Decoding First steps](https://blog.davidvassallo.me/2018/10/17/pentesting-grpc-protobuf-decoding-first-steps/)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
