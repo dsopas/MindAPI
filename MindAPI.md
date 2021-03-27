@@ -10,6 +10,7 @@
 - SOAP
 - XML-RPC
 - JSON-RPC
+- gRPC-Protobuf
 
 #### Documentation
 - <https://smartbear.com/blog/soap-vs-rest-whats-the-difference/>
