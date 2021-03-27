@@ -31,8 +31,9 @@
 - /api/application.wadl
 
 ##### WSDL
-- ?wsdl
+- ?wsdl/?singleWsdl
   - [wsdl-wizard](https://github.com/portswigger/wsdl-wizard)
+  - [SoapUI](https://www.soapui.org/)
 
 ##### GraphQL
 - <https://graphql.org/learn/introspection/>
