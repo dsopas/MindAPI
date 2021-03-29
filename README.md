@@ -12,7 +12,7 @@
   <h3 align="center">MindAPI</h3>
 
   <p align="center">
-    Bringing order to API hacking caos!
+    Bringing order to API hacking chaos!
     <br />
     <a href="https://dsopas.github.io/MindAPI/play/">View Online</a>
     ·
