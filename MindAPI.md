@@ -47,9 +47,26 @@
 ### Search for APIs
 
 #### Traffic Analysis
-- [Burp CE](https://portswigger.net/burp/communitydownload)
-- [ZAP](https://www.zaproxy.org/)
-- [mitmproxy](https://mitmproxy.org/)
+- REST
+- - [Burp CE](https://portswigger.net/burp/communitydownload)
+- - [ZAP](https://www.zaproxy.org/)
+- - [mitmproxy](https://mitmproxy.org/)
+- GraphQL
+- - [Burp CE](https://portswigger.net/burp/communitydownload)
+- - [ZAP](https://www.zaproxy.org/)
+- SOAP
+- - [Burp CE](https://portswigger.net/burp/communitydownload)
+- XML-RPC
+- - [Burp CE](https://portswigger.net/burp/communitydownload)
+- - [mitmproxy](https://mitmproxy.org/)
+- JSON-RPC
+- - [Burp CE](https://portswigger.net/burp/communitydownload)
+- - [mitmproxy](https://mitmproxy.org/)
+- gRPC-Protobuf
+- - [mitmproxy](https://mitmproxy.org/)
+- - [Wireshark](https://www.wireshark.org/)
+- - - `echo HEX_STREAM | xxd -r -p | protoc --decode_raw`
+- - - [protoc](https://google.github.io/proto-lens/installing-protoc.html)
 
 #### Wayback Machine
 - <https://archive.org/web/>
