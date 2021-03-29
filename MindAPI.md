@@ -35,6 +35,7 @@
 - ?wsdl or ?singleWsdl
   - [wsdl-wizard](https://github.com/portswigger/wsdl-wizard)
   - [SoapUI](https://www.soapui.org/)
+  - [Wsdler](https://github.com/NetSPI/Wsdler)
 
 ##### GraphQL
 - <https://graphql.org/learn/introspection/>
