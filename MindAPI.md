@@ -10,6 +10,7 @@
 - SOAP
 - XML-RPC
 - JSON-RPC
+- gRPC-Protobuf
 
 #### Documentation
 - <https://smartbear.com/blog/soap-vs-rest-whats-the-difference/>
@@ -31,8 +32,9 @@
 - /api/application.wadl
 
 ##### WSDL
-- ?wsdl
+- ?wsdl or ?singleWsdl
   - [wsdl-wizard](https://github.com/portswigger/wsdl-wizard)
+  - [SoapUI](https://www.soapui.org/)
 
 ##### GraphQL
 - <https://graphql.org/learn/introspection/>
