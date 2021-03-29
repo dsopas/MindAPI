@@ -48,3 +48,4 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [How we could have tracked anyone's live location using Truecaller's "Guardians" app](https://www.pingsafe.ai/blog/hacking-truecallers-guardian-application-to-track-you)
 - [Enumerate internal cached URLs which lead to data exposure](https://ysamm.com/?p=629)
 - [All That We Let In: Hacking mHealth Apps and APIs](https://alissaknight.medium.com/all-that-we-let-in-hacking-mhealth-apps-and-apis-part-2-1a55b928ce67)
+- [OTP brute-force via rate limit bypass](https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8)
