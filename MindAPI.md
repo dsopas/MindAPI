@@ -150,7 +150,7 @@
 - Next value
 - Previous value
 - Data Type
-- Method -> GET to POST
+- Method -> GET to POST (or PUT or DELETE, with API owner's permission)
 
 ###### Duplicate
 - ?id=1&id=2
@@ -238,6 +238,8 @@
 - [apicheck](https://github.com/BBVA/apicheck)
 
 #### Compare client data with the API response to check if the filtering is done by client side
+
+#### Compare data received between two API accounts for the same endpoints.
 
 #### Sniff the traffic to check for sensitive data returned by the API
 - [Burp CE](https://portswigger.net/burp/communitydownload)
