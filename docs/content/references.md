@@ -20,6 +20,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Hidden in Plain Site: Disclosing Information via Your APIs](https://www.youtube.com/watch?v=jBi3a-dXsM8)
 - [Bad API, hAPI Hackers!](https://www.youtube.com/watch?v=UT7-ZVawdzA)
 - [API Security 101](https://www.youtube.com/watch?v=ijalD2NkRFg)
+- [JWT Parkour](https://www.youtube.com/watch?v=zWVRHK3ykfo)
 
 ## Must read
 - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
