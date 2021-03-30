@@ -11,6 +11,10 @@
 - XML-RPC
 - JSON-RPC
 - gRPC-Protobuf
+  - Identify `grpc`
+    - Accept request header
+    - Content-Type request header
+    - Access-control-expose-headers in the response header
 
 #### Documentation
 - <https://smartbear.com/blog/soap-vs-rest-whats-the-difference/>
