@@ -21,6 +21,8 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Bad API, hAPI Hackers!](https://www.youtube.com/watch?v=UT7-ZVawdzA)
 - [API Security 101](https://www.youtube.com/watch?v=ijalD2NkRFg)
 - [JWT Parkour](https://www.youtube.com/watch?v=zWVRHK3ykfo)
+- [Finding Your First Bug: Finding Bugs Using APIs](https://www.youtube.com/watch?v=yCUQBc2rY9Y)
+- [Live API Hacking Demo](https://www.youtube.com/watch?v=cWSu2Ja65Z4)
 
 ## Must read
 - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
