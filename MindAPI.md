@@ -231,6 +231,9 @@
 - [jwtcat](https://github.com/aress31/jwtcat)
 - [apicheck](https://github.com/BBVA/apicheck)
 
+###### Abusing JWT Public Keys Without knowing the Public Key
+- [rsa_sig2n](https://github.com/silentsignal/rsa_sign2n)
+
 ###### Test if algorithm could be changed
 - [jwt.io](https://jwt.io/#debugger-io)
 - [jwtcat](https://github.com/aress31/jwtcat)
