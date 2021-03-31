@@ -271,7 +271,13 @@
       - `?redirect_uri=https://§FUZZ§TARGET.TLD`
   - XSS
 - Test the existence of response_type=token
-- Test CSRF
+- Testing state
+  - Missing state parameter?
+    - CSRF
+      - Generate a valid `authorization_code` and don't use it
+        - Send the cracted CSRF page to TARGET
+  - Predictable state parameter?
+  - Is state parameter being verified?
 
 ##### Basic Auth
 
