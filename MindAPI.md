@@ -187,6 +187,11 @@
 ###### Wildcard
 - GET /users/id -> GET /users/*
 
+###### cross-deployments IDs
+- Identify other deployments (hosts) of your target API
+- Enumerate resources IDs (often non- numerical/sequential ones)
+- Test those IDs on your target API host
+
 #### Check the response
 
 #### Tools
