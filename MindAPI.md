@@ -275,7 +275,7 @@
   - Missing state parameter?
     - CSRF
       - Generate a valid `authorization_code` and don't use it
-        - Send the cracted CSRF page to TARGET
+        - Send the crafted CSRF page to TARGET
   - Predictable state parameter?
   - Is state parameter being verified?
 
