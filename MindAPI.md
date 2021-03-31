@@ -257,8 +257,19 @@
 ###### Check that keys and secrets are different between ENV
 
 ##### OAuth
-- Test redirect_uri for open redirects
-- Test redirect_uri for XSS
+- Test redirect_uri
+  - Open redirects
+    - Common issues
+      - `?redirect_uri=https://atttacker.com`
+      - `?redirect_uri=https://ATTACKER.TARGET.TLD`
+      - `?redirect_uri=https://ALLOWED_HOST.com/callback?redirectUrl=https://attacker.com`
+      - `?redirect_uri=https://TARGET.TLD.attacker.com`
+      - `?redirect_uri=https://TARGET.TLD%252eattacker.com`
+      - `?redirect_uri=https://TARGET.TLD//attacker.com/`
+    - Fuzz
+      - `?redirect_uri=https://TARGET.TLD§FUZZ§`
+      - `?redirect_uri=https://§FUZZ§TARGET.TLD`
+  - XSS
 - Test the existence of response_type=token
 - Test CSRF
 
