@@ -174,6 +174,8 @@
 - Next value
 - Previous value
 - Data Type
+  - Is it a number? Change it to a string
+  - Is it a string? Change it to a number
 - Method -> GET to POST
 
 ###### Duplicate
@@ -181,6 +183,9 @@
 
 ###### Add as an array
 - ?id[]=1&id[]=2
+
+###### Wildcard
+- GET /users/id -> GET /users/*
 
 #### Check the response
 
