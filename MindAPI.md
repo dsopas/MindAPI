@@ -283,6 +283,7 @@
         - Send the crafted CSRF page to TARGET
   - Predictable state parameter?
   - Is state parameter being verified?
+- If you revocate access, will code be also revocated?
 
 ##### Basic Auth
 
