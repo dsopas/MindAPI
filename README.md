@@ -99,4 +99,4 @@ Project Link: [https://dsopas.github.io/MindAPI/](https://dsopas.github.io/MindA
 [stars-url]: https://github.com/dsopas/MindAPI/stargazers
 [issues-shield]: https://img.shields.io/github/issues/dsopas/MindAPI?style=for-the-badge
 [issues-url]: https://github.com/dsopas/MindAPI/issues
-[product-screenshot]: mindapi_cover.png
+[product-screenshot]: mindapi_play.gif
