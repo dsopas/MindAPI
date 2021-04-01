@@ -38,6 +38,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Leveraging Exposed WADL XML in Burp Suite](https://www.nopsec.com/leveraging-exposed-wadl-xml-in-burp-suite/)
 - [How Unsecure gRPC Implementations Can Compromise APIs](https://www.trendmicro.com/en_us/research/20/h/how-unsecure-grpc-implementations-can-compromise-apis.html)
 - [Pentesting gRPC / Protobuf : Decoding First steps](https://blog.davidvassallo.me/2018/10/17/pentesting-grpc-protobuf-decoding-first-steps/)
+- [OAuth 2.0 authentication vulnerabilities](https://portswigger.net/web-security/oauth)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
