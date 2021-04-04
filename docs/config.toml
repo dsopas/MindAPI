@@ -6,7 +6,7 @@ googleAnalytics = ""
 
 [params]
     author = "David Sopas"
-    description = "Bringing order to API hacking caos"
+    description = "Bringing order to API hacking chaos"
     githubUsername = "dsopas"
     accent = "red"
     showBorder = true
