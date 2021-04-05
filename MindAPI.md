@@ -8,8 +8,11 @@
 - REST API
 - GraphQL
 - SOAP
+  - Transfered data in XML format  
 - XML-RPC
+  - Transfered data in simpler XML format `<users><user><firstName>David</firstName>` 
 - JSON-RPC
+  - Transfered data similar to XML-RPC but in JSON format `{"users":[{"firstName":"David"}]`
 - gRPC-Protobuf
   - Identify `grpc`
     - Accept request header
