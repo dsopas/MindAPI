@@ -6,6 +6,7 @@
 
 #### Architecture
 - REST API
+  - OData 
 - GraphQL
 - SOAP
   - Transfered data in XML format  
@@ -21,6 +22,7 @@
 
 #### Documentation
 - <https://smartbear.com/blog/soap-vs-rest-whats-the-difference/>
+- https://www.odata.org/documentation/
 - <https://www.howtographql.com/basics/1-graphql-is-the-better-rest/>
 - <https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/>
 - <https://www.soapui.org/docs/rest-testing/working-with-rest-services/>
@@ -32,6 +34,9 @@
 
 ##### Swagger
 - <https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/swagger.txt>
+
+##### OData
+- /$metadata
 
 ##### WADL
 - /application.wadl
@@ -55,6 +60,10 @@
 
 #### Traffic Analysis
 - REST
+  - [Burp CE](https://portswigger.net/burp/communitydownload)
+  - [ZAP](https://www.zaproxy.org/)
+  - [mitmproxy](https://mitmproxy.org/)
+- OData
   - [Burp CE](https://portswigger.net/burp/communitydownload)
   - [ZAP](https://www.zaproxy.org/)
   - [mitmproxy](https://mitmproxy.org/)
@@ -90,9 +99,22 @@
 ##### Google
 - site:target.tld inurl:api
 - intitle:"index of" "api.yaml" site:target.tld
+- WADL
+  - inurl:/application.wadl
+  - user filetype:wadl
+  - ext:wadl
+- WSDL
+  - user filetype:wsdl
+  - ext:wsdl
+- Odata
+  - inurl:/%24metadata
 
 ##### Github
 - <https://github.com/search?q=target.tld+%2Bapi>
+- WADL
+  - <https://github.com/search?q=target.tld+application.wadl&type=code>
+- WSDL
+  - <https://github.com/search?q=target.tld+%2A.wsdl&type=code>
 
 #### Secrets
 - `intitle:"index of" intext:"apikey.txt" site:target.tld`
