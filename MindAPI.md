@@ -87,11 +87,15 @@
 ##### Google
 - site:target.tld inurl:api
 - intitle:"index of" "api.yaml" site:target.tld
-- intitle:"index of" intext:"apikey.txt" site:target.tld
-- allintext:"API_SECRET*" ext:env | ext:yml site:target.tld
 
 ##### Github
 - <https://github.com/search?q=target.tld+%2Bapi>
+
+#### Secrets
+- `intitle:"index of" intext:"apikey.txt" site:target.tld`
+- `allintext:"API_SECRET*" ext:env | ext:yml site:target.tld`
+- [truffleHog](https://github.com/dxa4481/truffleHog)
+- [shhgit](https://github.com/eth0izzle/shhgit)
 
 #### API Directories
 - <https://apis.guru/browse-apis/>
