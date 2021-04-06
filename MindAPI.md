@@ -225,11 +225,13 @@
 #### Check the response
 
 #### Tools
-- [Astra](https://github.com/flipkart-incubator/Astra)
-- [apidor](https://github.com/bncrypted/apidor)
-- [InQL](https://github.com/doyensec/inql)
-- [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
-- [Autorize](https://github.com/PortSwigger/autorize)
+- REST APIs
+  - [Astra](https://github.com/flipkart-incubator/Astra)
+  - [apidor](https://github.com/bncrypted/apidor)
+  - [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
+  - [Autorize](https://github.com/PortSwigger/autorize)
+- GraphQL
+  - [InQL](https://github.com/doyensec/inql)
 
 ### Broken Authentication
 
