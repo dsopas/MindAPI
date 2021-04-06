@@ -419,16 +419,22 @@
 ### Injection 
 
 #### Test if user input is validated, filtered, or sanitized by the API
-- [Astra](https://github.com/flipkart-incubator/Astra)
-- [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
-- [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
-- [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
+- REST APIs
+  - [Astra](https://github.com/flipkart-incubator/Astra)
+  - [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+  - [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
+  - [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
+- GraphQL
+  - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
 
 #### Test if client data is used or concat into DB queries, OS commands, etc
-- [Astra](https://github.com/flipkart-incubator/Astra)
-- [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
-- [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
-- [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
+- REST APIs
+  - [Astra](https://github.com/flipkart-incubator/Astra)
+  - [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+  - [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
+  - [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
+- GraphQL
+  - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
 
 #### Check if incoming data from external systems is validated, filtered, or sanitized by the API
 
