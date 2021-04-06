@@ -5,7 +5,8 @@
 ### Identify architecture
 
 #### Architecture
-- REST API
+- REST APIs
+  - RESTful
   - OData 
 - GraphQL
 - SOAP
@@ -22,7 +23,7 @@
 
 #### Documentation
 - <https://smartbear.com/blog/soap-vs-rest-whats-the-difference/>
-- https://www.odata.org/documentation/
+- <https://www.odata.org/documentation/>
 - <https://www.howtographql.com/basics/1-graphql-is-the-better-rest/>
 - <https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/>
 - <https://www.soapui.org/docs/rest-testing/working-with-rest-services/>
@@ -36,12 +37,12 @@
 - <https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/swagger.txt>
 
 ##### OData
-- /$metadata
+- `/$metadata`
 
 ##### WADL
-- /application.wadl
-- /application.wadl?detail=true
-- /api/application.wadl
+- `/application.wadl`
+- `/application.wadl?detail=true`
+- `/api/application.wadl`
 
 ##### WSDL
 - ?wsdl or ?singleWsdl
@@ -97,15 +98,15 @@
 #### Dorks
 
 ##### Google
-- site:target.tld inurl:api
-- intitle:"index of" "api.yaml" site:target.tld
+- `site:target.tld inurl:api`
+- `intitle:"index of" "api.yaml" site:target.tld`
 - WADL
-  - inurl:/application.wadl
-  - user filetype:wadl
-  - ext:wadl
+  - `inurl:/application.wadl`
+  - `user filetype:wadl`
+  - `ext:wadl`
 - WSDL
-  - user filetype:wsdl
-  - ext:wsdl
+  - `user filetype:wsdl`
+  - `ext:wsdl`
 - Odata
   - inurl:/%24metadata
 
