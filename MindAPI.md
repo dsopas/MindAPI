@@ -230,6 +230,7 @@
   - [apidor](https://github.com/bncrypted/apidor)
   - [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
   - [Autorize](https://github.com/PortSwigger/autorize)
+  - [Auth Analyzer](https://github.com/portswigger/auth-analyzer)
 - GraphQL
   - [InQL](https://github.com/doyensec/inql)
 
