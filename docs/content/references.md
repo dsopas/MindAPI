@@ -40,6 +40,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Pentesting gRPC / Protobuf : Decoding First steps](https://blog.davidvassallo.me/2018/10/17/pentesting-grpc-protobuf-decoding-first-steps/)
 - [OAuth 2.0 authentication vulnerabilities](https://portswigger.net/web-security/oauth)
 - [Finding Broken Access Controls](https://threat.tevora.com/finding-broken-access-controls/)
+- [Contextual Content Discovery: You've forgotten about the API endpoints](https://blog.assetnote.io/2021/04/05/contextual-content-discovery/)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)

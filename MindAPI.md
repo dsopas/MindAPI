@@ -178,6 +178,10 @@
 - `tntfuzzer --url https://TARGET.TLD/v2/swagger.json --iterations 100 --log_all`
 - <https://github.com/Teebytes/TnT-Fuzzer>
 
+##### Kiterunner
+- `kr scan TARGET.TLD -w routes.kite -A=apiroutes-210228:20000 -x 10 --ignore-length=34`
+- <https://github.com/assetnote/kiterunner>
+
 ### Supported Content Types
 
 - Play with request URL
