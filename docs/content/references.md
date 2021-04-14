@@ -24,6 +24,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Finding Your First Bug: Finding Bugs Using APIs](https://www.youtube.com/watch?v=yCUQBc2rY9Y)
 - [Live API Hacking Demo](https://www.youtube.com/watch?v=cWSu2Ja65Z4)
 - [OAuth, JWT, HMAC, oh my! API security for your enterprise](https://www.youtube.com/watch?v=NtAnyDJhkkg)
+- [API Recon with Kiterunner](https://www.youtube.com/watch?v=hNs8fpWfcyU)
 
 ## Must read
 - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
