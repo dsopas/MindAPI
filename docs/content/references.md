@@ -43,6 +43,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [OAuth 2.0 authentication vulnerabilities](https://portswigger.net/web-security/oauth)
 - [Finding Broken Access Controls](https://threat.tevora.com/finding-broken-access-controls/)
 - [Contextual Content Discovery: You've forgotten about the API endpoints](https://blog.assetnote.io/2021/04/05/contextual-content-discovery/)
+- [JWT Security Cheatsheet](https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
