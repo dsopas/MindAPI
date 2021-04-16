@@ -49,6 +49,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [Websheep](https://github.com/marmicode/websheep)
 - [Pixi](https://github.com/DevSlop/Pixi)
+- [API Security in Action](https://github.com/NeilMadden/apisecurityinaction)
 
 ## Writeups
 - [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e)
