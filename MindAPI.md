@@ -235,6 +235,7 @@
   - [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
   - [Autorize](https://github.com/PortSwigger/autorize)
   - [Auth Analyzer](https://github.com/portswigger/auth-analyzer)
+  - [Susanoo](https://github.com/ant4g0nist/Susanoo)
 - GraphQL
   - [InQL](https://github.com/doyensec/inql)
 
@@ -429,6 +430,7 @@
   - [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
   - [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
   - [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
+  - [Susanoo](https://github.com/ant4g0nist/Susanoo)
 - GraphQL
   - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
 
@@ -438,6 +440,7 @@
   - [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
   - [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
   - [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
+  - [Susanoo](https://github.com/ant4g0nist/Susanoo)
 - GraphQL
   - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
 
