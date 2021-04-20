@@ -37,6 +37,18 @@ googleAnalytics = ""
     name = "Play"
     weight = 4
 
+[[menu.main]]
+    url = "#download"
+    identifier = "download"
+    name = "Download"
+    weight = 5
+
+[[menu.main]]
+    parent = "download"
+    identifier = "interactive"
+    url = "#download-interactive"
+    name = "Interactive HTML"
+
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
