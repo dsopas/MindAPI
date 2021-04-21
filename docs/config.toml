@@ -16,6 +16,12 @@ googleAnalytics = ""
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     css = [ "css/custom.css" ]
+    js = [
+        "https://cdn.jsdelivr.net/npm/d3@6",
+        "https://cdn.jsdelivr.net/npm/markmap-lib@0.11.6",
+        "https://cdn.jsdelivr.net/npm/markmap-view@0.2.6",
+        "js/mindmap.js"
+    ]
 
 [[menu.main]]
     url = "/"
