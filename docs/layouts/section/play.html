@@ -2,35 +2,7 @@
 
 <main id="markmap">
   <svg id="mindmap"></svg>
-  <script src="https://cdn.jsdelivr.net/npm/d3@6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.11.6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/markmap-view@0.2.6"></script>
-  <script>
-    (async (d) => {
-      const a = 'https://raw.githubusercontent.com/dsopas/MindAPI/main/MindAPI.md';
-
-      try {
-        const b = await fetch(a),
-              c = await b.text(),
-              t = new markmap.Transformer;
-
-        const { root, features } = t.transform(c);
-        markmap.Markmap.create("#mindmap", null, root);
-
-        d.getElementById('download-interactive').addEventListener('click', () => {
-          const r = t.getUsedAssets(features),
-                i = markmap.fillTemplate(root,r);
-
-          anchor = d.createElement('a');
-          anchor.setAttribute('href', 'data:text/html;utf8,' + encodeURIComponent(i));
-          anchor.setAttribute('download', 'mindapi.html');
-          anchor.click();
-        });
-      } catch (a) {
-        console.error(a)
-      }
-    })(document);
-  </script>
+  <script>(async () => await mindapi.render('#mindmap'))()</script>
 </main>
 
 {{ partial "footer" . }}
