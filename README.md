@@ -9,8 +9,6 @@
     <img src="logo%20MindAPI_git.jpg" alt="Logo" width="600">
   </a>
 
-  <h3 align="center">MindAPI</h3>
-
   <p align="center">
     Bringing order to API hacking chaos!
     <br />
