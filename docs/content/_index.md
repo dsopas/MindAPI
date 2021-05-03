@@ -2,4 +2,4 @@
 title: MindAPI
 ---
 
-![MindAPI mindmap](mindapi.png)
+![MindAPI mindmap](https://raw.githubusercontent.com/dsopas/MindAPI/main/logo%20MindAPI_git.jpg)
