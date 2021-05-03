@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://dsopas.github.io/MindAPI/">
-    <img src="https://dsopas.github.io/MindAPI/mindapi.png" alt="Logo" width="400">
+    <img src="logo%20MindAPI_git.jpg" alt="Logo" width="600">
   </a>
 
   <h3 align="center">MindAPI</h3>
