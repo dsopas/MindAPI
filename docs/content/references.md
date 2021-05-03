@@ -51,6 +51,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Websheep](https://github.com/marmicode/websheep)
 - [Pixi](https://github.com/DevSlop/Pixi)
 - [API Security in Action](https://github.com/NeilMadden/apisecurityinaction)
+- [vAPI](https://github.com/roottusk/vapi)
 
 ## Writeups
 - [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e)
