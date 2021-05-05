@@ -48,7 +48,7 @@ Nowadays APIs are part of all modern applications. Creating something that could
 MindAPI is a mindmap which combines years of experience in testing API security. Its divided into two sections:
 
 - Reconnaissance
-- Testing (Follows OWASP API Security Top 10 guidelines and other security guides)
+- Testing (Covers most of [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) and other security resources)
 
 On both of them you have guidelines, links to open-source tools and documentation that help you on the way.
 
