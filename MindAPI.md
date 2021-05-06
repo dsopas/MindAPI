@@ -434,7 +434,7 @@
   - [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
 - GraphQL
-  - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap
+  - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
 - gRPC-protobuf
   - [ProtoFuzz](https://github.com/trailofbits/protofuzz)
 
