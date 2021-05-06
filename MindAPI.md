@@ -238,6 +238,8 @@
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
 - GraphQL
   - [InQL](https://github.com/doyensec/inql)
+- gRPC-protobuf
+  - [ProtoFuzz](https://github.com/trailofbits/protofuzz)
 
 ### Broken Authentication
 
@@ -432,7 +434,9 @@
   - [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
 - GraphQL
-  - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
+  - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap
+- gRPC-protobuf
+  - [ProtoFuzz](https://github.com/trailofbits/protofuzz)
 
 #### Test if client data is used or concat into DB queries, OS commands, etc
 - REST APIs
@@ -443,6 +447,8 @@
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
 - GraphQL
   - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
+- gRPC-protobuf
+  - [ProtoFuzz](https://github.com/trailofbits/protofuzz)
 
 #### Check if incoming data from external systems is validated, filtered, or sanitized by the API
 
