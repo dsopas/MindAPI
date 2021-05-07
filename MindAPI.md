@@ -84,6 +84,7 @@
   - [Wireshark](https://www.wireshark.org/)
     - `echo HEX_STREAM | xxd -r -p | protoc --decode_raw`
     - [protoc](https://google.github.io/proto-lens/installing-protoc.html)
+    - [Wireshark Protobuf Dissector](https://github.com/128technology/protobuf_dissector)
 
 #### Wayback Machine
 - <https://archive.org/web/>
