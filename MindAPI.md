@@ -86,6 +86,9 @@
     - [protoc](https://google.github.io/proto-lens/installing-protoc.html)
     - [Wireshark Protobuf Dissector](https://github.com/128technology/protobuf_dissector)
 
+#### Android apps
+- [apkleaks](https://github.com/dwisiswant0/apkleaks)
+
 #### Wayback Machine
 - <https://archive.org/web/>
 - [waybackurls](https://github.com/tomnomnom/waybackurls)
