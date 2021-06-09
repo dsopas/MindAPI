@@ -242,6 +242,7 @@
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
 - GraphQL
   - [InQL](https://github.com/doyensec/inql)
+  - [graphql-path-enum](https://gitlab.com/dee-see/graphql-path-enum)
 - gRPC-protobuf
   - [ProtoFuzz](https://github.com/trailofbits/protofuzz)
 
