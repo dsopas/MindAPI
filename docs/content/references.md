@@ -46,6 +46,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Contextual Content Discovery: You've forgotten about the API endpoints](https://blog.assetnote.io/2021/04/05/contextual-content-discovery/)
 - [JWT Security Cheatsheet](https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf)
 - [How to exploit GraphQL endpoint: introspection, query, mutations & tools](https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/)
+- [OAuth 2.0 Threat Model Pentesting Checklist](https://www.binarybrotherhood.io/oauth2_threat_model.html)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
