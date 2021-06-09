@@ -329,9 +329,9 @@
   - Predictable state parameter?
   - Is state parameter being verified?
 - If you revocate access, will code be also revocated?
-- Credential Leakage
-  - Referer Header
-  - Browser History 
+- Credential leakage
+  - Check the Referer header
+  - Check the browser history 
 
 ##### Basic Auth
 
