@@ -285,6 +285,7 @@
 - [jwt_cracker](https://github.com/lmammino/jwt-cracker)
 - [jwtcat](https://github.com/aress31/jwtcat)
 - [apicheck](https://github.com/BBVA/apicheck)
+- [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
 
 ###### Abusing JWT Public Keys Without knowing the Public Key
 - [rsa_sig2n](https://github.com/silentsignal/rsa_sign2n)
@@ -294,6 +295,7 @@
 - [jwtcat](https://github.com/aress31/jwtcat)
 - [apicheck](https://github.com/BBVA/apicheck)
 - [JSON Web Token Attacker](https://portswigger.net/bappstore/82d6c60490b540369d6d5d01822bdf61)
+- [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
 
 ###### Test token expiration time (TTL, RTTL)
 
@@ -301,6 +303,7 @@
 - [jwt.io](https://jwt.io/#debugger-io)
 
 ###### Check for Injection in "kid" element
+- [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
 
 ###### Check for time constant verification for HMAC
 
