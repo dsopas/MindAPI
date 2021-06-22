@@ -50,6 +50,7 @@
   - [wsdl-wizard](https://github.com/portswigger/wsdl-wizard)
   - [SoapUI](https://www.soapui.org/)
   - [Wsdler](https://github.com/NetSPI/Wsdler)
+  - `/_vti_bin/lists.asmx?WSDL`
 
 ##### GraphQL
 - <https://graphql.org/learn/introspection/>
