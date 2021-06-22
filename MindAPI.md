@@ -35,6 +35,7 @@
 
 ##### Swagger
 - <https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/swagger.txt>
+- `/openapi.json`
 
 ##### OData
 - `/$metadata`
