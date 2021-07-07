@@ -47,6 +47,8 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [JWT Security Cheatsheet](https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf)
 - [How to exploit GraphQL endpoint: introspection, query, mutations & tools](https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/)
 - [OAuth 2.0 Threat Model Pentesting Checklist](https://www.binarybrotherhood.io/oauth2_threat_model.html)
+- [API Security 101: Broken User Authentication](https://blog.shiftleft.io/api-security-101-broken-user-authentication-1df2ef3420d8)
+- [IDOR Techniques Mindmap](https://www.xmind.net/m/CSKSWZ/)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
