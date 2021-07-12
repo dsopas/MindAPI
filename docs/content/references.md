@@ -49,6 +49,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [OAuth 2.0 Threat Model Pentesting Checklist](https://www.binarybrotherhood.io/oauth2_threat_model.html)
 - [API Security 101: Broken User Authentication](https://blog.shiftleft.io/api-security-101-broken-user-authentication-1df2ef3420d8)
 - [IDOR Techniques Mindmap](https://www.xmind.net/m/CSKSWZ/)
+- [Security Implications of AWS API Gateway Lambda Authorizers and IAM Wildcard Expansion](https://www.tenchisecurity.com/blog/thefaultinourstars)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
