@@ -26,6 +26,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [OAuth, JWT, HMAC, oh my! API security for your enterprise](https://www.youtube.com/watch?v=NtAnyDJhkkg)
 - [API Recon with Kiterunner](https://www.youtube.com/watch?v=hNs8fpWfcyU)
 - [Offensive GraphQL API Exploitation](https://www.youtube.com/watch?v=eKj8F9bOOvk)
+- [Traversing My Way in the Internal Network](https://www.youtube.com/watch?v=f5IEe5r9to8)
  
 ## Must read
 - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
@@ -50,6 +51,8 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [API Security 101: Broken User Authentication](https://blog.shiftleft.io/api-security-101-broken-user-authentication-1df2ef3420d8)
 - [IDOR Techniques Mindmap](https://www.xmind.net/m/CSKSWZ/)
 - [Security Implications of AWS API Gateway Lambda Authorizers and IAM Wildcard Expansion](https://www.tenchisecurity.com/blog/thefaultinourstars)
+- [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
+- [Securing XML implementations across the web](https://mattermost.com/blog/securing-xml-implementations-across-the-web/)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
@@ -67,6 +70,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Enumerate internal cached URLs which lead to data exposure](https://ysamm.com/?p=629)
 - [All That We Let In: Hacking mHealth Apps and APIs](https://alissaknight.medium.com/all-that-we-let-in-hacking-mhealth-apps-and-apis-part-2-1a55b928ce67)
 - [Tour de Peloton: Exposed user data](https://www.pentestpartners.com/security-blog/tour-de-peloton-exposed-user-data/)
+- [Smart car chargers. Plug-n-play for hackers?](https://www.pentestpartners.com/security-blog/smart-car-chargers-plug-n-play-for-hackers/)
 ### BOLA / IDOR
 - [Cracking Encrypted Credit Card Numbers Exposed By API](https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f)
 ###  OAuth
