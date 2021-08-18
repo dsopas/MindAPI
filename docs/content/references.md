@@ -71,6 +71,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [All That We Let In: Hacking mHealth Apps and APIs](https://alissaknight.medium.com/all-that-we-let-in-hacking-mhealth-apps-and-apis-part-2-1a55b928ce67)
 - [Tour de Peloton: Exposed user data](https://www.pentestpartners.com/security-blog/tour-de-peloton-exposed-user-data/)
 - [Smart car chargers. Plug-n-play for hackers?](https://www.pentestpartners.com/security-blog/smart-car-chargers-plug-n-play-for-hackers/)
+- [XSS Vulnerability Patched in SEOPress Affects 100,000 sites](https://www.wordfence.com/blog/2021/08/xss-vulnerability-patched-in-seopress-affects-100000-sites/)
 ### BOLA / IDOR
 - [Cracking Encrypted Credit Card Numbers Exposed By API](https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f)
 ###  OAuth
