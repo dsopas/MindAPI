@@ -52,7 +52,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [IDOR Techniques Mindmap](https://www.xmind.net/m/CSKSWZ/)
 - [Security Implications of AWS API Gateway Lambda Authorizers and IAM Wildcard Expansion](https://www.tenchisecurity.com/blog/thefaultinourstars)
 - [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
-- [Securing XML implementations across the web](https://mattermost.com/blog/securing-xml-implementations-across-the-web/)
+- [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
