@@ -433,8 +433,10 @@
 #### GraphQL
 
 - [Introspection Query and/or GraphiQL is enabled](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html#introspection-graphiql)
+  - [BatchQL](https://github.com/assetnote/batchql) 
 - GraphQL server provides fields name hints
 - [Query batching is enabled without limit](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html#batching-attacks)
+  - [BatchQL](https://github.com/assetnote/batchql) 
 - [Unlimited Depth and/or Amount](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html#query-limiting-depth-amount)
 
 ### Injection 
