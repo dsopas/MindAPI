@@ -72,6 +72,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Tour de Peloton: Exposed user data](https://www.pentestpartners.com/security-blog/tour-de-peloton-exposed-user-data/)
 - [Smart car chargers. Plug-n-play for hackers?](https://www.pentestpartners.com/security-blog/smart-car-chargers-plug-n-play-for-hackers/)
 - [XSS Vulnerability Patched in SEOPress Affects 100,000 sites](https://www.wordfence.com/blog/2021/08/xss-vulnerability-patched-in-seopress-affects-100000-sites/)
+- [Two account takeover bugs worth $4300](https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty)
 ### BOLA / IDOR
 - [Cracking Encrypted Credit Card Numbers Exposed By API](https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f)
 - [What is BOLA? 3-digit bounty from Topcoder](https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64)
