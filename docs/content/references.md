@@ -84,6 +84,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [OAuth redirect_uri bypass using IDN homograph attack resulting in user's access token leakage](https://hackerone.com/reports/861940)
 - [Stealing Users OAUTH Tokens via redirect_uri ](https://hackerone.com/reports/405100)
 - [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651)
+- [Vulnerability in Bumble dating app reveals any user's exact location](https://robertheaton.com/bumble-vulnerability/)
 ### JWT
 - [Predictable JWT secret](https://hackerone.com/reports/896649)
 ### Rate Limit
