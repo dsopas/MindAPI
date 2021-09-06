@@ -27,7 +27,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [API Recon with Kiterunner](https://www.youtube.com/watch?v=hNs8fpWfcyU)
 - [Offensive GraphQL API Exploitation](https://www.youtube.com/watch?v=eKj8F9bOOvk)
 - [Traversing My Way in the Internal Network](https://www.youtube.com/watch?v=f5IEe5r9to8)
- 
+
 ## Must read
 - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
 - [GraphQL Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html)
@@ -54,6 +54,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
 - [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 - [Exploiting GraphQL](https://blog.assetnote.io/2021/08/29/exploiting-graphql/)
+- [The complete GraphQL Security Guide: Fixing the 13 most common GraphQL Vulnerabilities to make your API production ready](https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
@@ -89,3 +90,4 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Predictable JWT secret](https://hackerone.com/reports/896649)
 ### Rate Limit
 - [OTP brute-force via rate limit bypass](https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8)
+
