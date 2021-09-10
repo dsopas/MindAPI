@@ -284,12 +284,17 @@
 
 ###### Test JWT secret brute-forcing
 - jwt_tool
-  - `python3 jwt_tool.py <JWT> -C -d secrets.txt`
+  - `python3 jwt_tool.py <JWT> -C -d <Wordlist>`
   - <https://github.com/ticarpi/jwt_tool>
-- [jwt_cracker](https://github.com/lmammino/jwt-cracker)
-- [jwtcat](https://github.com/aress31/jwtcat)
-- [apicheck](https://github.com/BBVA/apicheck)
-- [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
+- jwt_cracker
+  - `jwt-cracker <JWT> <Alphabet> <Max length>` 
+  - <https://github.com/lmammino/jwt-cracker>
+  - jwtcat
+    - `python jwcat.py brute-force <JWT>`
+    - <https://github.com/aress31/jwtcat>
+  - jwtcat
+    - `python jwcat.py wordlist -w <Wordlist> <JWT>`
+    - <https://github.com/aress31/jwtcat>
 - [JWT Heartbreaker](https://github.com/wallarm/jwt-heartbreaker)
 
 ###### Abusing JWT Public Keys Without knowing the Public Key
@@ -300,19 +305,22 @@
   - jwt_tool
     - `python3 jwt_tool.py <JWT> -X a`
     - <https://github.com/ticarpi/jwt_tool>
+  - jwtcat
+    - `python jwcat.py vulnerable <JWT>`
+    - <https://github.com/aress31/jwtcat>
 - Change algorithm from RS256 to HS256
   - jtw_tool
     - `python3 jwt_tool.py <JWT> -S hs256 -k public.pem`
     - <https://github.com/ticarpi/jwt_tool>  
+  - jwtcat
+    - `python jwcat.py vulnerable <JWT>`
+    - <https://github.com/aress31/jwtcat>
 - [jwt.io](https://jwt.io/#debugger-io)
-- [jwtcat](https://github.com/aress31/jwtcat)
-- [apicheck](https://github.com/BBVA/apicheck)
 - [JSON Web Token Attacker](https://portswigger.net/bappstore/82d6c60490b540369d6d5d01822bdf61)
-- [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
 
 ###### Test if signature is being validated
 - jwt_tool
-  - `python3 jwt_tool.py <JWT> -I -pc name -pv admin`
+  - `python3 jwt_tool.py <JWT> -I -pc <Key> -pv <Value>`
   - <https://github.com/ticarpi/jwt_tool>
 - jtwXploiter
   - `jwtxpl <JWT> -a hs256 -p <key>:<value> --unverified`
