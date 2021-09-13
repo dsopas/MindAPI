@@ -61,6 +61,19 @@
 
 ### Search for APIs
 
+#### Registries
+
+- [ProgrammableWeb](https://www.programmableweb.com/)
+- [RapidAPI Hub](https://rapidapi.com/hub)
+- [APIs.io](http://apis.io/)
+- [SwaggerHub](https://app.swaggerhub.com/search)
+- [APIs.guru](https://apis.guru/)
+- [Postman Public API Network](https://www.postman.com/explore/apis)
+- [Any API](https://any-api.com/)
+- [SmartAPI Registry](https://smart-api.info/registry)
+- [API Stack](https://www.apistack.io/)
+- [Public APIs](https://public-apis.xyz/)
+
 #### Traffic Analysis
 - REST
   - [Burp CE](https://portswigger.net/burp/communitydownload)
