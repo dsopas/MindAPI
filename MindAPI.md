@@ -61,18 +61,7 @@
 
 ### Search for APIs
 
-#### Registries
 
-- [ProgrammableWeb](https://www.programmableweb.com/)
-- [RapidAPI Hub](https://rapidapi.com/hub)
-- [APIs.io](http://apis.io/)
-- [SwaggerHub](https://app.swaggerhub.com/search)
-- [APIs.guru](https://apis.guru/)
-- [Postman Public API Network](https://www.postman.com/explore/apis)
-- [Any API](https://any-api.com/)
-- [SmartAPI Registry](https://smart-api.info/registry)
-- [API Stack](https://www.apistack.io/)
-- [Public APIs](https://public-apis.xyz/)
 
 #### Traffic Analysis
 - REST
@@ -143,9 +132,19 @@
 - [shhgit](https://github.com/eth0izzle/shhgit)
 
 #### API Directories
-- <https://apis.guru/browse-apis/>
-- <https://apilist.fun/>
-- <https://apiharmony-open.mybluemix.net/public>
+
+- [API list](https://apilist.fun/)
+- [API Harmony](https://apiharmony-open.mybluemix.net/public)
+- [ProgrammableWeb](https://www.programmableweb.com/)
+- [RapidAPI Hub](https://rapidapi.com/hub)
+- [APIs.io](http://apis.io/)
+- [SwaggerHub](https://app.swaggerhub.com/search)
+- [APIs.guru](https://apis.guru/)
+- [Postman Public API Network](https://www.postman.com/explore/apis)
+- [Any API](https://any-api.com/)
+- [SmartAPI Registry](https://smart-api.info/registry)
+- [API Stack](https://www.apistack.io/)
+- [Public APIs](https://public-apis.xyz/)
 
 ### Enumerate endpoints / methods
 
