@@ -55,6 +55,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 - [Exploiting GraphQL](https://blog.assetnote.io/2021/08/29/exploiting-graphql/)
 - [The complete GraphQL Security Guide: Fixing the 13 most common GraphQL Vulnerabilities to make your API production ready](https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready)
+- [Exposed Payment Integration API Keys Imperil Millions of Users’ Transaction Details and PII](https://bevigil.com/blog/exposed-payment-integration-api-keys-imperil-millions-of-users-transaction-details-and-pii/)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
