@@ -258,6 +258,7 @@
   - [InQL](https://github.com/doyensec/inql)
   - [graphql-path-enum](https://gitlab.com/dee-see/graphql-path-enum)
   - [AutoGraphQL](https://graphql-dashboard.herokuapp.com/)
+  - [graphw00f](https://github.com/dolevf/graphw00f)
 - gRPC-protobuf
   - [ProtoFuzz](https://github.com/trailofbits/protofuzz)
 
