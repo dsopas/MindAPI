@@ -200,6 +200,10 @@
 - `kr scan TARGET.TLD -w routes.kite -A=apiroutes-210228:20000 -x 10 --ignore-length=34`
 - <https://github.com/assetnote/kiterunner>
 
+#### graphw00f
+- `python3 main.py -f -d -t http://localhost:5000`
+- <https://github.com/dolevf/graphw00f>
+
 ### Supported Content Types
 
 - Play with request URL
@@ -258,7 +262,6 @@
   - [InQL](https://github.com/doyensec/inql)
   - [graphql-path-enum](https://gitlab.com/dee-see/graphql-path-enum)
   - [AutoGraphQL](https://graphql-dashboard.herokuapp.com/)
-  - [graphw00f](https://github.com/dolevf/graphw00f)
 - gRPC-protobuf
   - [ProtoFuzz](https://github.com/trailofbits/protofuzz)
 
