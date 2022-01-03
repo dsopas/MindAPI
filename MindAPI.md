@@ -28,6 +28,7 @@
 - <https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/>
 - <https://www.soapui.org/docs/rest-testing/working-with-rest-services/>
 - <https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them>
+- <https://openapi.tools/>
 
 ### Check for documentation
 
@@ -92,6 +93,7 @@
 
 #### Android apps
 - [apkleaks](https://github.com/dwisiswant0/apkleaks)
+- [APKEnum](https://github.com/shivsahni/APKEnum)
 
 #### Wayback Machine
 - <https://archive.org/web/>
@@ -102,6 +104,11 @@
 - /api/v1
 - /api/v2
 - /api/v3
+
+#### Key/Token identification
+
+- [Api-Guesser](https://api-guesser.netlify.app/)
+- [Keyhacks](https://github.com/streaak/keyhacks)
 
 #### Dorks
 
@@ -159,6 +166,7 @@
 ##### Other
 - <https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/api/api_endpoints.txt>
 - <https://s3.amazonaws.com/assetnote-wordlists/data/automated/httparchive_apiroutes_2020_11_20.txt>
+- <https://github.com/chrislockard/api_wordlist>
 
 ##### WADL
 - <https://github.com/dwisiswant0/wadl-dumper>
@@ -203,6 +211,14 @@
 ##### graphw00f
 - `python3 main.py -f -d -t http://localhost:5000`
 - <https://github.com/dolevf/graphw00f>
+
+##### clairvoyance
+- `python3 -m clairvoyance -vv -o schema.json -w wordlist.txt https://api-example/graphql`
+- <https://github.com/nikitastupin/clairvoyance>
+
+##### json2paths
+- `j2p -p http://example.com/+burp.xml`
+- <https://github.com/s0md3v/dump/tree/master/json2paths>
 
 ### Supported Content Types
 
@@ -298,6 +314,12 @@
 #### Types of Authentication
 
 ##### JWT
+
+###### Multiple JWT test cases
+
+- jwt_tool
+  - `python3 jwt_tool.py -t https://api.example.com/api/working_endpoint -rh "Content-Type: application/json" -rh "Authorization: Bearer [JWT]" -M at`
+  - <https://github.com/ticarpi/jwt_tool>
 
 ###### Test JWT secret brute-forcing
 - jwt_tool
