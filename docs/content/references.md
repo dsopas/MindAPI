@@ -66,6 +66,8 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [vulnerable OAuth 2.0 applications](https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications)
 - [Vulnerable JWT lab](https://github.com/h-a-c/jwt-lab)
 - [Vulnerable GraphQL API](https://github.com/CarveSystems/vulnerable-graphql-api)
+- [KONTRAs OWASP Top 10 for API](https://application.security/free/owasp-top-10-API)
+- [Vulnerable API with Laravel App](https://github.com/InsiderPhD/Generic-University)
 
 ## Writeups
 - [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e)
