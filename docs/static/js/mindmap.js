@@ -1,5 +1,5 @@
 ((win, doc) => {
-  const mdURL = 'https://raw.githubusercontent.com/dsopas/MindAPI/main/MindAPI.md';
+  const mdURL = 'https://raw.githubusercontent.com/IT-Berater/MindAPI/main/MindAPI.md';
 
   async function getMarkdown () {
     const res = await fetch(mdURL);
