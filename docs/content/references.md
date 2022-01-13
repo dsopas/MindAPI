@@ -49,7 +49,6 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [How to exploit GraphQL endpoint: introspection, query, mutations & tools](https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/)
 - [OAuth 2.0 Threat Model Pentesting Checklist](https://www.binarybrotherhood.io/oauth2_threat_model.html)
 - [API Security 101: Broken User Authentication](https://blog.shiftleft.io/api-security-101-broken-user-authentication-1df2ef3420d8)
-- [IDOR Techniques Mindmap](https://www.xmind.net/m/CSKSWZ/)
 - [Security Implications of AWS API Gateway Lambda Authorizers and IAM Wildcard Expansion](https://www.tenchisecurity.com/blog/thefaultinourstars)
 - [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
 - [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
@@ -97,4 +96,6 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Predictable JWT secret](https://hackerone.com/reports/896649)
 ### Rate Limit
 - [OTP brute-force via rate limit bypass](https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8)
-
+## Mindmaps
+- [TOP 10 Critical Cyber Safety Lessons To Teach Your Kids](http://kleinhirn.eu/2019/09/03/top-10-critical-cyber-safety-lessons-to-teach-your-kids/)
+- [IDOR Techniques Mindmap](https://www.xmind.net/m/CSKSWZ/)
