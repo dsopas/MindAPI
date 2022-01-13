@@ -5,9 +5,9 @@ theme = "minimal"
 googleAnalytics = ""
 
 [params]
-    author = "David Sopas"
+    author = "Thomas Wenzlaff"
     description = "Bringing order to API hacking chaos"
-    githubUsername = "dsopas"
+    githubUsername = "IT-Berater"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
