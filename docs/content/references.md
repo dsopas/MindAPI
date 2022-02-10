@@ -84,6 +84,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [This is how I was able to see Private, Archived Posts/Stories of users on Instagram without following them](https://infosecwriteups.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c)
 - [Free BrewDog beer with a side order of shareholder PII?](https://www.pentestpartners.com/security-blog/free-brewdog-beer-with-a-side-order-of-shareholder-pii/)
 - [Unauthenticated XSS Vulnerability Patched in HTML Email Template Designer Plugin](https://www.wordfence.com/blog/2022/01/unauthenticated-xss-vulnerability-patched-in-html-email-template-designer-plugin/)
+- [DPD package sniffing](https://www.pentestpartners.com/security-blog/dpd-package-sniffing/)
 ### BOLA / IDOR
 - [Cracking Encrypted Credit Card Numbers Exposed By API](https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f)
 - [What is BOLA? 3-digit bounty from Topcoder](https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64)
