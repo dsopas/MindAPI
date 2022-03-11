@@ -505,9 +505,12 @@
 
 - [Introspection Query and/or GraphiQL is enabled](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html#introspection-graphiql)
   - [BatchQL](https://github.com/assetnote/batchql) 
+  - [graphql-cop](https://github.com/dolevf/graphql-cop)
 - GraphQL server provides fields name hints
+  - [graphql-cop](https://github.com/dolevf/graphql-cop)
 - [Query batching is enabled without limit](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html#batching-attacks)
   - [BatchQL](https://github.com/assetnote/batchql) 
+  - [graphql-cop](https://github.com/dolevf/graphql-cop)
 - [Unlimited Depth and/or Amount](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html#query-limiting-depth-amount)
 
 ### Injection 
@@ -521,6 +524,7 @@
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
 - GraphQL
   - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
+  - [graphql-cop](https://github.com/dolevf/graphql-cop)
 - gRPC-protobuf
   - [ProtoFuzz](https://github.com/trailofbits/protofuzz)
 
