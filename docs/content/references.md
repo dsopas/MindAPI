@@ -100,4 +100,6 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Predictable JWT secret](https://hackerone.com/reports/896649)
 ### Rate Limit
 - [OTP brute-force via rate limit bypass](https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8)
+### SSRF
+- [Server-side Request Forgery on FinTech Platform Enabled Administrative Account Takeover](https://salt.security/blog/api-threat-research-server-side-request-forgery-on-fintech-platform-enabled-administrative-account-takeover)
 
