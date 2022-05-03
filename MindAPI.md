@@ -222,6 +222,9 @@
 - `j2p -p http://example.com/+burp.xml`
 - <https://github.com/s0md3v/dump/tree/master/json2paths>
 
+##### feroxbuster
+- <https://github.com/epi052/feroxbuster>
+
 ### Supported Content Types
 
 - Play with request URL
