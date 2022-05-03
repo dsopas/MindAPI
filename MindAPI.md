@@ -9,6 +9,8 @@
   - RESTful
   - OData 
 - GraphQL
+  - Known vulnerabilities
+    - [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix)
 - SOAP
   - Transfered data in XML format  
 - XML-RPC
