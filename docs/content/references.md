@@ -104,3 +104,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 ### SSRF
 - [Server-side Request Forgery on FinTech Platform Enabled Administrative Account Takeover](https://salt.security/blog/api-threat-research-server-side-request-forgery-on-fintech-platform-enabled-administrative-account-takeover)
 
+## Testing
+- [Tavern API Testing](https://tavern.readthedocs.io/en/latest/)
+- [REST-Attacker](https://github.com/RUB-NDS/REST-Attacker)
+
