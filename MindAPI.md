@@ -527,9 +527,12 @@
   - [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
   - [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
+  - [REcollapse](https://github.com/0xacb/recollapse)
 - GraphQL
   - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
   - [graphql-cop](https://github.com/dolevf/graphql-cop)
+  - [REcollapse](https://github.com/0xacb/recollapse)
+  - [CrackQL](https://github.com/nicholasaleks/CrackQL)
 - gRPC-protobuf
   - [ProtoFuzz](https://github.com/trailofbits/protofuzz)
 
