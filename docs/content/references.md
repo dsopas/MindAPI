@@ -56,6 +56,8 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Exploiting GraphQL](https://blog.assetnote.io/2021/08/29/exploiting-graphql/)
 - [The complete GraphQL Security Guide: Fixing the 13 most common GraphQL Vulnerabilities to make your API production ready](https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready)
 - [Exposed Payment Integration API Keys Imperil Millions of Users’ Transaction Details and PII](https://bevigil.com/blog/exposed-payment-integration-api-keys-imperil-millions-of-users-transaction-details-and-pii/)
+- [Move Over Verbose Error Messages, GraphQL APIs are Here ](https://checkmarx.com/blog/move-over-verbose-error-messages-graphql-apis-are-here/)
+- [What’s Old Becomes New Again: CSRF Attacks on GraphQL APIs](https://checkmarx.com/blog/whats-old-becomes-new-again-csrf-attacks-on-graphql-apis/)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
@@ -87,6 +89,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Unauthenticated XSS Vulnerability Patched in HTML Email Template Designer Plugin](https://www.wordfence.com/blog/2022/01/unauthenticated-xss-vulnerability-patched-in-html-email-template-designer-plugin/)
 - [DPD package sniffing](https://www.pentestpartners.com/security-blog/dpd-package-sniffing/)
 - [IDOR vulnerability on invoice and weak password reset leads to account take over](https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c)
+- [F5 BIG-IP and iControl REST Vulnerabilities and Exposures](https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/)
 ### BOLA / IDOR
 - [Cracking Encrypted Credit Card Numbers Exposed By API](https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f)
 - [What is BOLA? 3-digit bounty from Topcoder](https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64)
