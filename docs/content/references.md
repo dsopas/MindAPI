@@ -58,6 +58,9 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Exposed Payment Integration API Keys Imperil Millions of Users’ Transaction Details and PII](https://bevigil.com/blog/exposed-payment-integration-api-keys-imperil-millions-of-users-transaction-details-and-pii/)
 - [Move Over Verbose Error Messages, GraphQL APIs are Here ](https://checkmarx.com/blog/move-over-verbose-error-messages-graphql-apis-are-here/)
 - [What’s Old Becomes New Again: CSRF Attacks on GraphQL APIs](https://checkmarx.com/blog/whats-old-becomes-new-again-csrf-attacks-on-graphql-apis/)
+- [Exploiting GraphQL Query Depth](https://checkmarx.com/blog/exploiting-graphql-query-depth/)
+- [Alias and Directive Overloading in GraphQL](https://checkmarx.com/blog/alias-and-directive-overloading-in-graphql/)
+- [Didn’t Notice Your Rate Limiting: GraphQL Batching Attack](https://checkmarx.com/blog/didnt-notice-your-rate-limiting-graphql-batching-attack/)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
