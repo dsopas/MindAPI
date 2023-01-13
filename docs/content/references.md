@@ -96,6 +96,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 ### BOLA / IDOR
 - [Cracking Encrypted Credit Card Numbers Exposed By API](https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f)
 - [What is BOLA? 3-digit bounty from Topcoder](https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64)
+- [Attacking predictable GUIDs when hacking APIs](https://danaepp.com/attacking-predictable-guids-when-hacking-apis)
 ###  OAuth
 - [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/131202)
 - [Slack OAuth2 "redirect_uri" Bypass ](https://hackerone.com/reports/2575)

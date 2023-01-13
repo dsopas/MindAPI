@@ -243,13 +243,14 @@
 ##### Understand the pattern
 - Sequential
 - Encoded
+- UUID (aka GUID)
 - Other
 
 ##### Tamper
 
 ###### Change
-- Next value
-- Previous value
+- Next/Previous value
+- Compute/Predict (e.g. UUIDv1)
 - Data Type
   - Is it a number? Change it to a string
   - Is it a string? Change it to a number
@@ -285,6 +286,8 @@
   - [AutoGraphQL](https://graphql-dashboard.herokuapp.com/)
 - gRPC-protobuf
   - [ProtoFuzz](https://github.com/trailofbits/protofuzz)
+- UUIDs
+  - [guid_reaper.py](https://gist.github.com/DanaEpp/8c6803e542f094da5c4079622f9b4d18) ([read more](https://danaepp.com/attacking-predictable-guids-when-hacking-apis))
 
 ### Broken Authentication
 
