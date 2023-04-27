@@ -225,6 +225,9 @@
 ##### feroxbuster
 - <https://github.com/epi052/feroxbuster>
 
+##### ReconAIzer
+- <https://github.com/hisxo/ReconAIzer>
+
 ### Supported Content Types
 
 - Play with request URL
