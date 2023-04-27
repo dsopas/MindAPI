@@ -343,6 +343,9 @@
     - `python jwcat.py wordlist -w <Wordlist> <JWT>`
     - <https://github.com/aress31/jwtcat>
 - [JWT Heartbreaker](https://github.com/wallarm/jwt-heartbreaker)
+- gojwtcrack
+  - `cat rockyou.txt | ./gojwtcrack -t mytoken.txt`
+  - <https://github.com/x1sec/gojwtcrack>
 
 ###### Abusing JWT Public Keys Without knowing the Public Key
 - [rsa_sig2n](https://github.com/silentsignal/rsa_sign2n)
