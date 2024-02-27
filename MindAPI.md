@@ -228,6 +228,14 @@
 ##### ReconAIzer
 - <https://github.com/hisxo/ReconAIzer>
 
+##### JS Miner
+- [Detecting API endpoints and source code with JS Miner](https://danaepp.com/detecting-api-endpoints-and-source-code-with-js-miner)
+- <https://github.com/minamo7sen/burp-JS-Miner>
+
+##### GoBuster
+- `gobuster vhost -k --append-domain -u TARGET.TLD -w wordlist.txt`
+- <https://github.com/OJ/gobuster>
+
 ### Supported Content Types
 
 - Play with request URL
