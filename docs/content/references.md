@@ -27,6 +27,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [API Recon with Kiterunner](https://www.youtube.com/watch?v=hNs8fpWfcyU)
 - [Offensive GraphQL API Exploitation](https://www.youtube.com/watch?v=eKj8F9bOOvk)
 - [Traversing My Way in the Internal Network](https://www.youtube.com/watch?v=f5IEe5r9to8)
+- [API Hacking With ChatGPT!](https://www.youtube.com/watch?v=BTlUEWHRldk)
 
 ## Must read
 - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
@@ -93,6 +94,8 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [DPD package sniffing](https://www.pentestpartners.com/security-blog/dpd-package-sniffing/)
 - [IDOR vulnerability on invoice and weak password reset leads to account take over](https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c)
 - [F5 BIG-IP and iControl REST Vulnerabilities and Exposures](https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/)
+- [How Spoutible’s Leaky API Spurted out a Deluge of Personal Data](https://www.troyhunt.com/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data/)
+- [Forging signed commits on GitHub](https://iter.ca/post/gh-sig-pwn/)
 ### BOLA / IDOR
 - [Cracking Encrypted Credit Card Numbers Exposed By API](https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f)
 - [What is BOLA? 3-digit bounty from Topcoder](https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64)
