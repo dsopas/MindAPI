@@ -237,6 +237,10 @@
 - `gobuster vhost -k --append-domain -u TARGET.TLD -w wordlist.txt`
 - <https://github.com/OJ/gobuster>
 
+##### katana
+- `cat subdomains_list.httpx | katana -mdc 'contains(endpoint, "api")' -o katana_api_output`
+- <https://github.com/projectdiscovery/katana>
+
 ### Supported Content Types
 
 - Play with request URL
