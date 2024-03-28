@@ -74,7 +74,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Vulnerable GraphQL API](https://github.com/CarveSystems/vulnerable-graphql-api)
 - [KONTRAs OWASP Top 10 for API](https://application.security/free/owasp-top-10-API)
 - [Vulnerable API with Laravel App](https://github.com/InsiderPhD/Generic-University)
-- [c{api}tal CTF](https://www.capital-ctf.com/)
+- [c{api}tal](https://github.com/Checkmarx/capital)
 - [ParaBank](https://github.com/parasoft/parabank)
 
 ## Writeups
