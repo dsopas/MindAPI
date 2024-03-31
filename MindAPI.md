@@ -226,6 +226,10 @@
 ##### feroxbuster
 - <https://github.com/epi052/feroxbuster>
 
+##### wfuzz
+- `wfuzz -z file,/usr/share/wordlists/api_list.txt https://targetname.com/FUZZ`
+- <https://github.com/xmendez/wfuzz>
+
 ##### ReconAIzer
 - <https://github.com/hisxo/ReconAIzer>
 
