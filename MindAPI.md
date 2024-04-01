@@ -226,6 +226,10 @@
 ##### feroxbuster
 - <https://github.com/epi052/feroxbuster>
 
+##### wfuzz
+- `wfuzz -z file,/usr/share/wordlists/api_list.txt https://targetname.com/FUZZ`
+- <https://github.com/xmendez/wfuzz>
+
 ##### ReconAIzer
 - <https://github.com/hisxo/ReconAIzer>
 
@@ -577,3 +581,5 @@
 - Hosts inventory is missing or outdated.
 - Integrated services inventory, either first- or third-party, is missing or outdated.
 - Old or previous API versions are running unpatched.
+- The aspects of the API (e.g. authentication, endpoints, redirects, errors, parameters, rate-limiting, request and response formats, etc) are missing or outdated.
+- If the API documentation is exposed to the internet, implement an access control mechanism (e.g. login portal) to ensure that only authorized users access the OpenAPI specification or even to the documentation as a whole.
