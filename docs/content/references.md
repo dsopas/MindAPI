@@ -76,6 +76,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Vulnerable API with Laravel App](https://github.com/InsiderPhD/Generic-University)
 - [c{api}tal](https://github.com/Checkmarx/capital)
 - [ParaBank](https://github.com/parasoft/parabank)
+- [VAmPI](https://github.com/erev0s/VAmPI/)
 
 ## Writeups
 - [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e)
@@ -102,6 +103,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [c{api}tal walkthrough](https://zerodayhacker.com/capital-walkthrough/)
 - [vAPI walkthrough](https://zerodayhacker.com/vapi-walkthrough/)
 - [DVGA walkthrough](https://zerodayhacker.com/dvga-walkthrough/)
+- [VAmPI walkthrough](https://zerodayhacker.com/vampi-walkthrough/)
 ### BOLA / IDOR
 - [Cracking Encrypted Credit Card Numbers Exposed By API](https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f)
 - [What is BOLA? 3-digit bounty from Topcoder](https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64)
