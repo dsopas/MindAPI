@@ -22,6 +22,7 @@
     - Accept request header
     - Content-Type request header
     - Access-control-expose-headers in the response header
+  - gRPC messages are encoded using Protobuf, which is binary 
 
 #### Documentation
 - <https://smartbear.com/blog/soap-vs-rest-whats-the-difference/>
