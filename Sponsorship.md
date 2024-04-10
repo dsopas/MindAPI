@@ -24,6 +24,6 @@ Every penny of your sponsorship will go directly into the **MindAPI Scholarship 
 Apart from the warm fuzzies of supporting education and innovation, you'll be directly contributing to the growth and diversity of the API security field. Plus, your brand gets to be front and center in a community dedicated to tech excellence.
 
 ### **Ready to Make a Difference?**
-If you're as excited as we are about fostering the next generation of tech talent, let's chat! Reach out to us at [email](david@noti.net) to start the conversation.
+If you're as excited as we are about fostering the next generation of tech talent, let's chat! Reach out to us at [email](mailto:david@noti.net) to start the conversation.
 
 Thank you for considering support for MindAPI and the bright futures of tomorrow's tech leaders. Together, we can make a world of difference! 💫
