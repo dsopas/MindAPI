@@ -17,6 +17,8 @@
     <a href="https://github.com/dsopas/MindAPI/issues">Report Bug</a>
     ·
     <a href="https://github.com/dsopas/MindAPI/issues">Request Feature</a>
+    .
+    <a href="Sponsorship.md">Sponsorship</a>
   </p>
 </p>
 
