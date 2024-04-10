@@ -41,11 +41,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://dsopas.github.io/MindAPI/)
 
-I love mindmaps. They help keep my methodology when doing security research or brainstorming with my collegues. With that in mind I decided to spread some love in the community by creating MindAPI.
+I'm a huge fan of mindmaps! 🌟 They're my go-to for keeping my thoughts organized whether I'm deep in security research or bouncing ideas around with my colleagues. Inspired by this, I wanted to share the love with the community, so I created MindAPI.
 
-Nowadays APIs are part of all modern applications. Creating something that could help the security community to assess an API and at the same time help me by keeping my work organized its a win-win.
+In today's world, APIs are the backbone of pretty much every modern app out there. So, I thought, why not make something that not only aids the security community in assessing APIs but also keeps my own work neat and tidy? It's the best of both worlds!
 
-MindAPI is a mindmap which combines years of experience in testing API security. Its divided into two sections:
+MindAPI it's divided into two sections:
 
 - Reconnaissance
 - Testing (Covers most of [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) and other security resources)
@@ -84,7 +84,7 @@ Distributed under the CC0-1.0 License. See `LICENSE` for more information.
 
 ## Contact
 
-David Sopas - [@dsopas](https://twitter.com/dsopas) - davidsopas@gmail.com
+David Sopas - [@dsopas](https://twitter.com/dsopas) - [DavidSopas.com/Contact](https://www.davidsopas.com/contacts/)
 
 Project Link: [https://dsopas.github.io/MindAPI/](https://dsopas.github.io/MindAPI/)
 
