@@ -17,7 +17,7 @@
     <a href="https://github.com/dsopas/MindAPI/issues">Report Bug</a>
     ·
     <a href="https://github.com/dsopas/MindAPI/issues">Request Feature</a>
-    .
+    ·
     <a href="Sponsorship.md">Sponsorship</a>
   </p>
 </p>
@@ -33,6 +33,7 @@
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#sponsorship">Sponsorship</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -79,6 +80,10 @@ BUT you can also update the [References](https://dsopas.github.io/MindAPI/refere
 2. Commit your Changes (File: **/docs/content/references.md**)
 3. Push to the Branch
 4. Open a Pull Request
+
+## Sponsorship
+
+🚀 Join the MindAPI Revolution! 🚀 Dreaming of a world where technology and education collide in the most spectacular way? So are we! 🌈 We’re on a quest to make API security accessible to all, and you can play a pivotal role. Support the MindAPI Scholarship and let’s empower the next generation of tech pioneers together! 💡🎓 [Become a Sponsor](Sponsorship.md) and be a beacon of innovation and education. Let’s create something amazing!
 
 ## License
 
