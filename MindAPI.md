@@ -265,7 +265,10 @@
 - Sequential
 - Encoded
 - UUID (aka GUID)
-- Other
+- Composite IDs
+- Hashed
+- Randomly Generated Strings
+- Temporal
 
 ##### Tamper
 
@@ -275,7 +278,12 @@
 - Data Type
   - Is it a number? Change it to a string
   - Is it a string? Change it to a number
-- Method -> GET to POST
+- Method
+  - GET to POST
+  - GET to PUT
+  - GET to PATCH 
+- Base64 encoded?
+  - Decoded it, modify it, encode it again
 
 ###### Duplicate
 - ?id=1&id=2
@@ -286,7 +294,7 @@
 ###### Wildcard
 - GET /users/id -> GET /users/*
 
-###### cross-deployments IDs
+###### Cross-deployments IDs
 - Identify other deployments (hosts) of your target API
 - Enumerate resources IDs (often non- numerical/sequential ones)
 - Test those IDs on your target API host
