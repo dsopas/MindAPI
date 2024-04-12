@@ -77,6 +77,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [c{api}tal](https://github.com/Checkmarx/capital)
 - [ParaBank](https://github.com/parasoft/parabank)
 - [VAmPI](https://github.com/erev0s/VAmPI/)
+- [Damn Vulnerable Restaurant](https://github.com/theowni/Damn-Vulnerable-Restaurant-API-Game)
 
 ## Writeups
 - [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e)
