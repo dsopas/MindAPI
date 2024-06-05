@@ -93,7 +93,8 @@
     - `echo HEX_STREAM | xxd -r -p | protoc --decode_raw`
     - [protoc](https://google.github.io/proto-lens/installing-protoc.html)
     - [Wireshark Protobuf Dissector](https://github.com/128technology/protobuf_dissector)
-  - [gRPC UI](https://github.com/fullstorydev/grpcui) 
+  - [gRPC UI](https://github.com/fullstorydev/grpcui)
+  - [ZAP - gRPC Support](https://www.zaproxy.org/docs/desktop/addons/grpc-support/)
 
 #### Android apps
 - [apkleaks](https://github.com/dwisiswant0/apkleaks)
