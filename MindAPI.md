@@ -65,8 +65,6 @@
 
 ### Search for APIs
 
-
-
 #### Traffic Analysis
 - REST
   - [Burp CE](https://portswigger.net/burp/communitydownload)
@@ -110,10 +108,11 @@
 - /api/v2
 - /api/v3
 
-#### Key/Token identification
+#### Key/Token identification/Testing
 
 - [Api-Guesser](https://api-guesser.netlify.app/)
 - [Keyhacks](https://github.com/streaak/keyhacks)
+- [all-about-apikey](https://github.com/daffainfo/all-about-apikey)
 
 #### Dorks
 
