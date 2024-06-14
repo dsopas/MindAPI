@@ -28,6 +28,9 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Offensive GraphQL API Exploitation](https://www.youtube.com/watch?v=eKj8F9bOOvk)
 - [Traversing My Way in the Internal Network](https://www.youtube.com/watch?v=f5IEe5r9to8)
 - [API Hacking With ChatGPT!](https://www.youtube.com/watch?v=BTlUEWHRldk)
+- [Web Apps: APIs’ Nightmare](https://www.youtube.com/watch?v=1PjKr4ZZ6Ww)
+- [The Secret Life of APIs: Latest Attack Data Shows What Your APIs Are Doing](https://www.youtube.com/watch?v=ccmQXJcc1co)
+- [I’m an API Hacker and Here’s How I Hack Everything from the Military to AI](https://www.youtube.com/watch?v=9kSBsyLqFgY)
 
 ## Must read
 - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
