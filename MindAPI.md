@@ -310,6 +310,7 @@
   - [Autorize](https://github.com/PortSwigger/autorize)
   - [Auth Analyzer](https://github.com/portswigger/auth-analyzer)
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
+  - [OFFAT](https://github.com/OWASP/OFFAT/)
 - GraphQL
   - [InQL](https://github.com/doyensec/inql)
   - [graphql-path-enum](https://gitlab.com/dee-see/graphql-path-enum)
@@ -456,6 +457,7 @@
 
 #### Check if the API returns full data objects from database with sensitive data
 - [apicheck](https://github.com/BBVA/apicheck)
+- [OFFAT](https://github.com/OWASP/OFFAT/)
 
 #### Compare client data with the API response to check if the filtering is done by client side
 
@@ -491,6 +493,7 @@
 ### Broken Function Level Authorization
 - Can a regular user access administrative endpoints? (MindAPI recon can help you here)
 - Testing different HTTP methods (GET, POST, PUT, DELETE, PATCH) will allow level escalation?
+  - [OFFAT](https://github.com/OWASP/OFFAT/) 
 - Enumerate/Bruteforce endpoints for getting unauthorized requests (MindAPI recon can help you here)
 
 ### Mass Assignment
@@ -564,6 +567,7 @@
   - [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
   - [REcollapse](https://github.com/0xacb/recollapse)
+  - [OFFAT](https://github.com/OWASP/OFFAT/)
 - GraphQL
   - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
   - [graphql-cop](https://github.com/dolevf/graphql-cop)
@@ -579,6 +583,7 @@
   - [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer)
   - [APIFuzzer](https://github.com/KissPeter/APIFuzzer)
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
+  - [OFFAT](https://github.com/OWASP/OFFAT/)
 - GraphQL
   - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
 - gRPC-protobuf
