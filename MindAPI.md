@@ -23,7 +23,9 @@
     - Content-Type request header
     - Access-control-expose-headers in the response header
   - gRPC messages are encoded using Protobuf, which is binary 
-
+- Webhooks
+  - Event-driven APIs that send information or perform a specific function in response to a trigger (e.g. time of the day, clicking a button, receiving a form submission)
+    
 #### Documentation
 - <https://smartbear.com/blog/soap-vs-rest-whats-the-difference/>
 - <https://www.odata.org/documentation/>
@@ -119,6 +121,8 @@
 ##### Google
 - `site:target.tld inurl:api`
 - `intitle:"index of" "api.yaml" site:target.tld`
+- REST APIs
+  - `site:target.tld inurl:api | site:*/rest | site:*/v1 | site:*/v2 | site:*/v3`
 - WADL
   - `inurl:/application.wadl`
   - `user filetype:wadl`
@@ -597,6 +601,7 @@
 - Old or previous API versions are running unpatched.
 - The aspects of the API (e.g. authentication, endpoints, redirects, errors, parameters, rate-limiting, request and response formats, etc) are missing or outdated.
 - If the API documentation is exposed to the internet, implement an access control mechanism (e.g. login portal) to ensure that only authorized users access the OpenAPI specification or even to the documentation as a whole.
+- If your API shares data with a third-party or you are consuming a third-party API, make sure to include it in the inventory.
 
 ### API Testing tools
 - [Postman](https://www.postman.com/downloads/)
@@ -604,3 +609,5 @@
 - [Insomnia](https://insomnia.rest/products/insomnia)
 - [HTTPie](https://httpie.io)
 - [Hoppscotch](https://hoppscotch.io/)
+- [BurpSuite](https://portswigger.net/burp/communitydownload)
+- [API Tester](https://apitester.org/)
