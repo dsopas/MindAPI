@@ -65,6 +65,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Exploiting GraphQL Query Depth](https://checkmarx.com/blog/exploiting-graphql-query-depth/)
 - [Alias and Directive Overloading in GraphQL](https://checkmarx.com/blog/alias-and-directive-overloading-in-graphql/)
 - [Didn’t Notice Your Rate Limiting: GraphQL Batching Attack](https://checkmarx.com/blog/didnt-notice-your-rate-limiting-graphql-batching-attack/)
+- [Best Practices When Deploying Webhooks in Production](https://hookdeck.com/webhooks/guides/best-practices-deploy-webhooks-production)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
