@@ -25,6 +25,10 @@
   - gRPC messages are encoded using Protobuf, which is binary 
 - Webhooks
   - Event-driven APIs that send information or perform a specific function in response to a trigger (e.g. time of the day, clicking a button, receiving a form submission)
+    - Identify 
+      - Search for `webhooks` or `event subscriptions` on the documentation 
+      - Find a reference on how to register a callback URL
+      - Is there a list of events types that can trigger a webhook?
     
 #### Documentation
 - <https://smartbear.com/blog/soap-vs-rest-whats-the-difference/>
@@ -34,6 +38,7 @@
 - <https://www.soapui.org/docs/rest-testing/working-with-rest-services/>
 - <https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them>
 - <https://openapi.tools/>
+- <https://developers.hubspot.com/docs/api/webhooks>
 
 ### Check for documentation
 
@@ -121,7 +126,7 @@
 ##### Google
 - `site:target.tld inurl:api`
 - `intitle:"index of" "api.yaml" site:target.tld`
-- REST APIs
+- REST
   - `site:target.tld inurl:api | site:*/rest | site:*/v1 | site:*/v2 | site:*/v3`
 - WADL
   - `inurl:/application.wadl`
@@ -131,7 +136,9 @@
   - `user filetype:wsdl`
   - `ext:wsdl`
 - Odata
-  - inurl:/%24metadata
+  - `inurl:/%24metadata`
+- Webhooks
+  - `inurl:docs webhook`
 
 ##### Github
 - <https://github.com/search?q=target.tld+%2Bapi>
