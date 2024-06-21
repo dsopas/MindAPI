@@ -257,6 +257,10 @@
 - `cat subdomains_list.httpx | katana -mdc 'contains(endpoint, "api")' -o katana_api_output`
 - <https://github.com/projectdiscovery/katana>
 
+##### Sasori
+- `sasori start -c config.json -o sasori_output.txt`
+- <https://github.com/karthikuj/sasori>
+
 ### Supported Content Types
 
 - Play with request URL
