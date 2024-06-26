@@ -31,6 +31,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Web Apps: APIs’ Nightmare](https://www.youtube.com/watch?v=1PjKr4ZZ6Ww)
 - [The Secret Life of APIs: Latest Attack Data Shows What Your APIs Are Doing](https://www.youtube.com/watch?v=ccmQXJcc1co)
 - [I’m an API Hacker and Here’s How I Hack Everything from the Military to AI](https://www.youtube.com/watch?v=9kSBsyLqFgY)
+- [The Arazzo Specification: A Tapestry for API Workflows.](https://www.youtube.com/watch?v=EQaGHjMIcD8)
 
 ## Must read
 - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
@@ -66,6 +67,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [Alias and Directive Overloading in GraphQL](https://checkmarx.com/blog/alias-and-directive-overloading-in-graphql/)
 - [Didn’t Notice Your Rate Limiting: GraphQL Batching Attack](https://checkmarx.com/blog/didnt-notice-your-rate-limiting-graphql-batching-attack/)
 - [Best Practices When Deploying Webhooks in Production](https://hookdeck.com/webhooks/guides/best-practices-deploy-webhooks-production)
+- [The Arazzo Specification](https://spec.openapis.org/arazzo/latest.html)
 
 ## Practice
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
