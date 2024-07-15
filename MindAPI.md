@@ -381,12 +381,10 @@
 - jwt_cracker
   - `jwt-cracker <JWT> <Alphabet> <Max length>` 
   - <https://github.com/lmammino/jwt-cracker>
-  - jwtcat
-    - `python jwcat.py brute-force <JWT>`
-    - <https://github.com/aress31/jwtcat>
-  - jwtcat
-    - `python jwcat.py wordlist -w <Wordlist> <JWT>`
-    - <https://github.com/aress31/jwtcat>
+- jwtcat
+  - `python jwcat.py brute-force <JWT>`
+  - `python jwcat.py wordlist -w <Wordlist> <JWT>`
+  - <https://github.com/aress31/jwtcat>
 - [JWT Heartbreaker](https://github.com/wallarm/jwt-heartbreaker)
 - gojwtcrack
   - `cat rockyou.txt | ./gojwtcrack -t mytoken.txt`
