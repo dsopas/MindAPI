@@ -32,6 +32,8 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [The Secret Life of APIs: Latest Attack Data Shows What Your APIs Are Doing](https://www.youtube.com/watch?v=ccmQXJcc1co)
 - [I’m an API Hacker and Here’s How I Hack Everything from the Military to AI](https://www.youtube.com/watch?v=9kSBsyLqFgY)
 - [The Arazzo Specification: A Tapestry for API Workflows.](https://www.youtube.com/watch?v=EQaGHjMIcD8)
+- [OWASP API Security Project - Paulo Silva & Erez Yalon](https://www.youtube.com/watch?v=hn4mgTu5izg)
+- [2024 Guide: Hacking APIs](https://www.youtube.com/watch?v=k5HZI6CfHw4)
 
 ## Must read
 - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
