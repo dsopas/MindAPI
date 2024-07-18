@@ -86,6 +86,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [ParaBank](https://github.com/parasoft/parabank)
 - [VAmPI](https://github.com/erev0s/VAmPI/)
 - [Damn Vulnerable Restaurant](https://github.com/theowni/Damn-Vulnerable-Restaurant-API-Game)
+- [Vulnerable REST API - OWASP 2023](https://github.com/bnematzadeh/vulnerable-rest-api)
 
 ## Writeups
 - [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e)
