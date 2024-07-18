@@ -7,10 +7,25 @@
 #### Architecture
 - REST APIs
   - RESTful
-  - OData 
+    - URL structure
+      - Often use resource-oriented URLs such as: `/api/v1/product/1234` 
+    - Response structure 
+      - Often in JSON or XML format
+      - Consistent and hierarchical structure
+  - OData
+    - A metadata document is usually provided at `/odata/$metadata`
+    - Specific query options present on the URL: `/odata/Products?$filter=Price&$orderby=desc`
+    - Response often includes annotations `@odata.context` or `@odata.metadata`
+    - Typically format is JSON
+    - Usually the response `Content-Type` includes the string `odata`: `application/json;odata.metadata=full`
+    - 
 - GraphQL
-  - Known vulnerabilities
-    - [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix)
+  - Response structure
+    - If there an issue with the query, an `errors` object is included in the response
+    - Errors like `Cannot query field` or `Field <field_name> not found` is usually indicative of a GraphQL API 
+    - If the response is successful the response will often contain a `data` field which includes the actual query results
+  - Specific fields
+    -  Response may include `__typename` which is used to identify the type of an object
 - SOAP
   - Transfered data in XML format  
 - XML-RPC
