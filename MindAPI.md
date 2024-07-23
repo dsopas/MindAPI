@@ -143,6 +143,8 @@
 - `intitle:"index of" "api.yaml" site:target.tld`
 - REST
   - `site:target.tld inurl:api | site:*/rest | site:*/v1 | site:*/v2 | site:*/v3`
+- GraphQL
+  - `site:target.tld inurl:graphql`
 - WADL
   - `inurl:/application.wadl`
   - `user filetype:wadl`
