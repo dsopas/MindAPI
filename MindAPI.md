@@ -623,6 +623,8 @@
 
 ### Improper Assets Management
 - Check for the API documentation (MindAPI recon can help you here)
+  - REST APIs
+    - [oasdiff](https://github.com/Tufin/oasdiff)
 - Hosts inventory is missing or outdated.
 - Integrated services inventory, either first- or third-party, is missing or outdated.
 - Old or previous API versions are running unpatched.
