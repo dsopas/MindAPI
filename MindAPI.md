@@ -625,6 +625,7 @@
 - Check for the API documentation (MindAPI recon can help you here)
   - REST APIs
     - `oasdiff diff openapi-test1.yaml openapi-test5.yaml -f text`
+    - <https://www.oasdiff.com/diff-calculator>
     - <https://github.com/Tufin/oasdiff>
 - Hosts inventory is missing or outdated.
 - Integrated services inventory, either first- or third-party, is missing or outdated.
