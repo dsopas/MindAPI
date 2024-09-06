@@ -627,6 +627,7 @@
     - `oasdiff diff openapi-test1.yaml openapi-test5.yaml -f text`
     - <https://www.oasdiff.com/diff-calculator>
     - <https://github.com/Tufin/oasdiff>
+    - [Detecting new API endpoints with oasdiff](https://danaepp.com/detecting-new-api-endpoints-with-oasdiff)
 - Hosts inventory is missing or outdated.
 - Integrated services inventory, either first- or third-party, is missing or outdated.
 - Old or previous API versions are running unpatched.
