@@ -467,6 +467,7 @@
     - Fuzz
       - `?redirect_uri=https://TARGET.TLD§FUZZ§`
       - `?redirect_uri=https://§FUZZ§TARGET.TLD`
+      - [URL validation bypass cheat sheet](https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet)
   - XSS
 - Test the existence of response_type=token
 - Testing state
