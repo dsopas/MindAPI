@@ -114,6 +114,7 @@ Here you can find a variaty of resources to help you out on the API security pat
 - [vAPI walkthrough](https://zerodayhacker.com/vapi-walkthrough/)
 - [DVGA walkthrough](https://zerodayhacker.com/dvga-walkthrough/)
 - [VAmPI walkthrough](https://zerodayhacker.com/vampi-walkthrough/)
+- [Zenly Fixes User Data Exposure and Account Takeover Risks](https://checkmarx.com/blog/zenly-fixes-user-data-exposure-and-account-takeover-risks/)
 ### BOLA / IDOR
 - [Cracking Encrypted Credit Card Numbers Exposed By API](https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f)
 - [What is BOLA? 3-digit bounty from Topcoder](https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64)
