@@ -119,16 +119,25 @@
 #### Android apps
 - [apkleaks](https://github.com/dwisiswant0/apkleaks)
 - [APKEnum](https://github.com/shivsahni/APKEnum)
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
 #### Wayback Machine
 - <https://archive.org/web/>
 - [waybackurls](https://github.com/tomnomnom/waybackurls)
 - [gau](https://github.com/lc/gau)
+- [waymore](https://github.com/xnl-h4ck3r/waymore)
 
 #### Path Manipulation
-- /api/v1
-- /api/v2
-- /api/v3
+- /api/v1/
+- /api/v2/
+- /api/v3/
+- /api/
+- /api/private
+- /api/partner
+- /api/test
+- api.target.com/v1
+- api.target.com/v2
+- api.target.com/v3
 
 #### Key/Token identification/Testing
 
@@ -169,6 +178,8 @@
 - `allintext:"API_SECRET*" ext:env | ext:yml site:target.tld`
 - [truffleHog](https://github.com/dxa4481/truffleHog)
 - [shhgit](https://github.com/eth0izzle/shhgit)
+- [PostLeaks](https://github.com/cosad3s/postleaks?tab=readme-ov-file)
+- [Porch Pirate](https://github.com/MandConsultingGroup/porch-pirate)
 
 #### API Directories
 
@@ -496,6 +507,7 @@
 - [Burp CE](https://portswigger.net/burp/communitydownload)
 - [ZAP](https://www.zaproxy.org/)
 - [mitmproxy](https://mitmproxy.org/)
+- [Wireshark](https://www.wireshark.org/)
 
 ### Lack of Resources & Rate Limiting
 
@@ -569,10 +581,12 @@
 
 #### Test for security headers
 - [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+- [OWASP ZAP](https://www.zaproxy.org/)
 
 #### CORS is well configured?
 - [Astra](https://github.com/flipkart-incubator/Astra)
 - [API Fuzzer](https://github.com/Fuzzapi/API-fuzzer)
+- Test Same Origin Policy (SOP): Modify the value of the Origin request header to reflect a different or seemingly untrusted website, and verify if the request is successfully processed
 
 #### Force an error to see if any sensitive information is exposed
 
@@ -632,7 +646,7 @@
 - Hosts inventory is missing or outdated.
 - Integrated services inventory, either first- or third-party, is missing or outdated.
 - Old or previous API versions are running unpatched.
-- The aspects of the API (e.g. authentication, endpoints, redirects, errors, parameters, rate-limiting, request and response formats, etc) are missing or outdated.
+- The aspects of the API (e.g. name, purpose, owner, description, authentication, endpoints, versioning, redirects, errors, parameters, rate-limiting, request and response formats, etc) are missing or outdated.
 - If the API documentation is exposed to the internet, implement an access control mechanism (e.g. login portal) to ensure that only authorized users access the OpenAPI specification or even to the documentation as a whole.
 - If your API shares data with a third-party or you are consuming a third-party API, make sure to include it in the inventory.
 
@@ -644,3 +658,4 @@
 - [Hoppscotch](https://hoppscotch.io/)
 - [BurpSuite](https://portswigger.net/burp/communitydownload)
 - [API Tester](https://apitester.org/)
+- [Scalar](https://scalar.com/)
