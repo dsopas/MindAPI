@@ -35,7 +35,7 @@
 - gRPC-Protobuf
   - Identify `grpc`
     - Accept request header
-    - Content-Type request header
+    -  request header
     - Access-control-expose-headers in the response header
   - gRPC messages are encoded using Protobuf, which is binary 
 - Webhooks
@@ -294,9 +294,12 @@
 - Play with request URL
   - Requested resource extension e.g. replacing `.json` by `.xml`
   - Query string e.g. replacing `?json` by `?xml` or `?format=json` by `?format=xml`
-- Play with `Content-Type` request header and payload
-  - Without `Content-Type`, submit either `json`, `xml`, ...
+- Play with `` request header and payload
+  - Without ``, submit either `json`, `xml`, ...
   - Changing `Content-Type` and payload accordingly
+
+### Data visualization
+- [JSON Crack](https://jsoncrack.com/editor)
 
 ## Testing
 
