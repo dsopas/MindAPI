@@ -180,6 +180,7 @@
 - [shhgit](https://github.com/eth0izzle/shhgit)
 - [PostLeaks](https://github.com/cosad3s/postleaks?tab=readme-ov-file)
 - [Porch Pirate](https://github.com/MandConsultingGroup/porch-pirate)
+- [js-snitch](https://github.com/vavkamil/js-snitch)
 
 #### API Directories
 
