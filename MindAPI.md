@@ -406,6 +406,9 @@
 - jwt_tool
   - `python3 jwt_tool.py -t https://api.example.com/api/working_endpoint -rh "Content-Type: application/json" -rh "Authorization: Bearer [JWT]" -M at`
   - <https://github.com/ticarpi/jwt_tool>
+- JWTAuditor
+  - <https://jwtauditor.com/>
+  - <https://github.com/dr34mhacks/jwtauditor> 
 
 ###### Test JWT secret brute-forcing
 - jwt_tool
@@ -422,6 +425,9 @@
 - gojwtcrack
   - `cat rockyou.txt | ./gojwtcrack -t mytoken.txt`
   - <https://github.com/x1sec/gojwtcrack>
+- JWTAuditor
+  - <https://jwtauditor.com/>
+  - <https://github.com/dr34mhacks/jwtauditor> 
 
 ###### Abusing JWT Public Keys Without knowing the Public Key
 - [rsa_sig2n](https://github.com/silentsignal/rsa_sign2n)
@@ -443,6 +449,9 @@
     - <https://github.com/aress31/jwtcat>
 - [jwt.io](https://jwt.io/#debugger-io)
 - [JSON Web Token Attacker](https://portswigger.net/bappstore/82d6c60490b540369d6d5d01822bdf61)
+- JWTAuditor
+  - <https://jwtauditor.com/>
+  - <https://github.com/dr34mhacks/jwtauditor> 
 
 ###### Test if signature is being validated
 - jwt_tool
