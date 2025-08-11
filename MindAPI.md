@@ -358,6 +358,7 @@
   - [Susanoo](https://github.com/ant4g0nist/Susanoo)
   - [OFFAT](https://github.com/OWASP/OFFAT/)
   - [sj](https://github.com/BishopFox/sj)
+  - [Autoswagger](https://github.com/intruder-io/autoswagger)
 - GraphQL
   - [InQL](https://github.com/doyensec/inql)
   - [graphql-path-enum](https://gitlab.com/dee-see/graphql-path-enum)
