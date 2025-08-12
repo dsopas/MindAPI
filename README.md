@@ -9,8 +9,6 @@
     <img src="logo%20MindAPI_git.jpg" alt="Logo" width="600">
   </a>
   <br />
-  <a href="https://github.com/dsopas/MindAPI/blob/main/Sponsorship.md"><img src="Resized_Company_Logo_Here_115x115.png"></a> <a href="https://github.com/dsopas/MindAPI/blob/main/Sponsorship.md"><img src="Resized_Company_Logo_Here_115x115.png"></a> <a href="https://github.com/dsopas/MindAPI/blob/main/Sponsorship.md"><img src="Resized_Company_Logo_Here_115x115.png"></a> 
-  <br />
   <p align="center">
     Bringing order to API hacking chaos!
     <br />
