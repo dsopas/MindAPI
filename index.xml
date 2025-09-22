@@ -1,155 +1,155 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MindAPI</title><link>https://dsopas.github.io/MindAPI/</link><description>Recent content on MindAPI</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://dsopas.github.io/MindAPI/index.xml" rel="self" type="application/rss+xml"/><item><title>About MindAPI Project</title><link>https://dsopas.github.io/MindAPI/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dsopas.github.io/MindAPI/about/</guid><description>&lt;p>I love mindmaps. They help keep my methodology when doing security research or
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MindAPI</title><link>https://dsopas.github.io/MindAPI/</link><description>Recent content on MindAPI</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://dsopas.github.io/MindAPI/index.xml" rel="self" type="application/rss+xml"/><item><title>About MindAPI Project</title><link>https://dsopas.github.io/MindAPI/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dsopas.github.io/MindAPI/about/</guid><description>&lt;p&gt;I love mindmaps. They help keep my methodology when doing security research or
 brainstorming with my collegues. With that in mind I decided to spread some love
-in the community by creating &lt;strong>MindAPI&lt;/strong>.&lt;/p>
-&lt;p>Nowadays APIs are part of all modern applications. Creating something that could
+in the community by creating &lt;strong&gt;MindAPI&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Nowadays APIs are part of all modern applications. Creating something that could
 help the security community to assess an API and at the same time help me by
-keeping my work organized its a win-win.&lt;/p>
-&lt;p>MindAPI is a mindmap which combines years of experience in testing API security.
-Its divided into two sections:&lt;/p></description></item><item><title>References</title><link>https://dsopas.github.io/MindAPI/references/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dsopas.github.io/MindAPI/references/</guid><description>&lt;p>Here you can find a variaty of resources to help you out on the API security path.&lt;/p>
-&lt;h2 id="talks--educational-videos--recorded-webinars">Talks / Educational Videos / Recorded Webinars&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=Jmyl6GoTaao">OWASP API Security Top 10 by Erez Yalon &amp;amp; Inon Shkedy&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=0ei3CdD7Ebk">Meetups at Checkmarx: An Introduction to API Security&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=wY6q583JWLc">Meetups at Checkmarx: API Security Concerns (Part II)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=NStTnATSysY">Don’t Worry, Be API: Addressing AppSec’s Newest Challenge&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=YQzU8xEBiPg">Common API security pitfalls by Philippe De Ryck&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=_WdDq9miqyo">API (in)Security TOP 10: Guided tour&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=aQGbYfalRTA">Top 10 API Bugs (and Where to Find Them)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=fvcKwUS4PTE">How To Do Recon: API Enumeration&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=viWzbPuGqpo">Hunting for bugs in GraphQL APIs (Demo)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=jyjGneKJynk">Finding Your Next Bug: GraphQL&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=NPDp7GHmMa0">REST in Peace: Abusing GraphQL to Attack Underlying Infrastructure&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=jBi3a-dXsM8">Hidden in Plain Site: Disclosing Information via Your APIs&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=UT7-ZVawdzA">Bad API, hAPI Hackers!&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=ijalD2NkRFg">API Security 101&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=zWVRHK3ykfo">JWT Parkour&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=yCUQBc2rY9Y">Finding Your First Bug: Finding Bugs Using APIs&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=cWSu2Ja65Z4">Live API Hacking Demo&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=NtAnyDJhkkg">OAuth, JWT, HMAC, oh my! API security for your enterprise&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=hNs8fpWfcyU">API Recon with Kiterunner&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=eKj8F9bOOvk">Offensive GraphQL API Exploitation&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=f5IEe5r9to8">Traversing My Way in the Internal Network&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=BTlUEWHRldk">API Hacking With ChatGPT!&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=1PjKr4ZZ6Ww">Web Apps: APIs’ Nightmare&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=ccmQXJcc1co">The Secret Life of APIs: Latest Attack Data Shows What Your APIs Are Doing&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=9kSBsyLqFgY">I’m an API Hacker and Here’s How I Hack Everything from the Military to AI&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=EQaGHjMIcD8">The Arazzo Specification: A Tapestry for API Workflows.&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=hn4mgTu5izg">OWASP API Security Project - Paulo Silva &amp;amp; Erez Yalon&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=k5HZI6CfHw4">2024 Guide: Hacking APIs&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="must-read">Must read&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://owasp.org/www-project-api-security/">OWASP API Security Project&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html">GraphQL Cheat Sheet&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/shieldfy/API-Security-Checklist">API Security Checklist&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://apisecurity.io/encyclopedia/content/api-security-encyclopedia.htm">API Security Encyclopedia&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/inonshk/31-days-of-API-Security-Tips">31 days of API Security Tips&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/04/restler.pdf">REST-ler: Automatic Intelligent REST API Fuzzing&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/">How-To: Find IDOR (Insecure Direct Object Reference) Vulnerabilities for large bounty rewards&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a">Hacking JSON Web Tokens (JWTs)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://huzaifa-tahir.medium.com/methods-to-bypass-rate-limit-5185e6c67ecd">Methods to Bypass Rate Limit&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/odomojuli/RegExAPI">Regex For Finding Popular Keys&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.nopsec.com/leveraging-exposed-wadl-xml-in-burp-suite/">Leveraging Exposed WADL XML in Burp Suite&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.trendmicro.com/en_us/research/20/h/how-unsecure-grpc-implementations-can-compromise-apis.html">How Unsecure gRPC Implementations Can Compromise APIs&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://blog.davidvassallo.me/2018/10/17/pentesting-grpc-protobuf-decoding-first-steps/">Pentesting gRPC / Protobuf : Decoding First steps&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://portswigger.net/web-security/oauth">OAuth 2.0 authentication vulnerabilities&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://threat.tevora.com/finding-broken-access-controls/">Finding Broken Access Controls&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://blog.assetnote.io/2021/04/05/contextual-content-discovery/">Contextual Content Discovery: You&amp;rsquo;ve forgotten about the API endpoints&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf">JWT Security Cheatsheet&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/">How to exploit GraphQL endpoint: introspection, query, mutations &amp;amp; tools&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.binarybrotherhood.io/oauth2_threat_model.html">OAuth 2.0 Threat Model Pentesting Checklist&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://blog.shiftleft.io/api-security-101-broken-user-authentication-1df2ef3420d8">API Security 101: Broken User Authentication&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.xmind.net/m/CSKSWZ/">IDOR Techniques Mindmap&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.tenchisecurity.com/blog/thefaultinourstars">Security Implications of AWS API Gateway Lambda Authorizers and IAM Wildcard Expansion&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/">SAML is insecure by design&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">How to Hack APIs in 2021&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://blog.assetnote.io/2021/08/29/exploiting-graphql/">Exploiting GraphQL&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready">The complete GraphQL Security Guide: Fixing the 13 most common GraphQL Vulnerabilities to make your API production ready&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://bevigil.com/blog/exposed-payment-integration-api-keys-imperil-millions-of-users-transaction-details-and-pii/">Exposed Payment Integration API Keys Imperil Millions of Users’ Transaction Details and PII&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://checkmarx.com/blog/move-over-verbose-error-messages-graphql-apis-are-here/">Move Over Verbose Error Messages, GraphQL APIs are Here &lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://checkmarx.com/blog/whats-old-becomes-new-again-csrf-attacks-on-graphql-apis/">What’s Old Becomes New Again: CSRF Attacks on GraphQL APIs&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://checkmarx.com/blog/exploiting-graphql-query-depth/">Exploiting GraphQL Query Depth&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://checkmarx.com/blog/alias-and-directive-overloading-in-graphql/">Alias and Directive Overloading in GraphQL&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://checkmarx.com/blog/didnt-notice-your-rate-limiting-graphql-batching-attack/">Didn’t Notice Your Rate Limiting: GraphQL Batching Attack&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://hookdeck.com/webhooks/guides/best-practices-deploy-webhooks-production">Best Practices When Deploying Webhooks in Production&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://spec.openapis.org/arazzo/latest.html">The Arazzo Specification&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="practice">Practice&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application">Damn Vulnerable GraphQL Application&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/marmicode/websheep">Websheep&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/DevSlop/Pixi">Pixi&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/NeilMadden/apisecurityinaction">API Security in Action&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/roottusk/vapi">vAPI&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications">vulnerable OAuth 2.0 applications&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/h-a-c/jwt-lab">Vulnerable JWT lab&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/CarveSystems/vulnerable-graphql-api">Vulnerable GraphQL API&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://application.security/free/owasp-top-10-API">KONTRAs OWASP Top 10 for API&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/InsiderPhD/Generic-University">Vulnerable API with Laravel App&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/Checkmarx/capital">c{api}tal&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/parasoft/parabank">ParaBank&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/erev0s/VAmPI/">VAmPI&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/theowni/Damn-Vulnerable-Restaurant-API-Game">Damn Vulnerable Restaurant&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/bnematzadeh/vulnerable-rest-api">Vulnerable REST API - OWASP 2023&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="writeups">Writeups&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e">Facebook Group Members Disclosure&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.pingsafe.ai/blog/how-we-could-have-listened-to-anyones-call-recordings">How we could have listened to anyone&amp;rsquo;s call recordings&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account">How I Might Have Hacked Any Microsoft Account&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.pingsafe.ai/blog/hacking-truecallers-guardian-application-to-track-you">How we could have tracked anyone&amp;rsquo;s live location using Truecaller&amp;rsquo;s &amp;ldquo;Guardians&amp;rdquo; app&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ysamm.com/?p=629">Enumerate internal cached URLs which lead to data exposure&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://alissaknight.medium.com/all-that-we-let-in-hacking-mhealth-apps-and-apis-part-2-1a55b928ce67">All That We Let In: Hacking mHealth Apps and APIs&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.pentestpartners.com/security-blog/tour-de-peloton-exposed-user-data/">Tour de Peloton: Exposed user data&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.pentestpartners.com/security-blog/smart-car-chargers-plug-n-play-for-hackers/">Smart car chargers. Plug-n-play for hackers?&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.wordfence.com/blog/2021/08/xss-vulnerability-patched-in-seopress-affects-100000-sites/">XSS Vulnerability Patched in SEOPress Affects 100,000 sites&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty">Two account takeover bugs worth $4300&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://robertheaton.com/bumble-vulnerability/">Vulnerability in Bumble dating app reveals any user&amp;rsquo;s exact location&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://infosecwriteups.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c">This is how I was able to see Private, Archived Posts/Stories of users on Instagram without following them&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.pentestpartners.com/security-blog/free-brewdog-beer-with-a-side-order-of-shareholder-pii/">Free BrewDog beer with a side order of shareholder PII?&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.wordfence.com/blog/2022/01/unauthenticated-xss-vulnerability-patched-in-html-email-template-designer-plugin/">Unauthenticated XSS Vulnerability Patched in HTML Email Template Designer Plugin&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.pentestpartners.com/security-blog/dpd-package-sniffing/">DPD package sniffing&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c">IDOR vulnerability on invoice and weak password reset leads to account take over&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/">F5 BIG-IP and iControl REST Vulnerabilities and Exposures&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.troyhunt.com/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data/">How Spoutible’s Leaky API Spurted out a Deluge of Personal Data&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://iter.ca/post/gh-sig-pwn/">Forging signed commits on GitHub&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://zerodayhacker.com/crapi-walkthrough-using-ai/">crAPI walkthrough using AI&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://zerodayhacker.com/parabank-walkthrough/">ParaBank walkthrough&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://zerodayhacker.com/capital-walkthrough/">c{api}tal walkthrough&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://zerodayhacker.com/vapi-walkthrough/">vAPI walkthrough&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://zerodayhacker.com/dvga-walkthrough/">DVGA walkthrough&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://zerodayhacker.com/vampi-walkthrough/">VAmPI walkthrough&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://checkmarx.com/blog/zenly-fixes-user-data-exposure-and-account-takeover-risks/">Zenly Fixes User Data Exposure and Account Takeover Risks&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="bola--idor">BOLA / IDOR&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f">Cracking Encrypted Credit Card Numbers Exposed By API&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64">What is BOLA? 3-digit bounty from Topcoder&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://danaepp.com/attacking-predictable-guids-when-hacking-apis">Attacking predictable GUIDs when hacking APIs&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="oauth">OAuth&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://hackerone.com/reports/131202">Chained Bugs to Leak Victim&amp;rsquo;s Uber&amp;rsquo;s FB Oauth Token&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://hackerone.com/reports/2575">Slack OAuth2 &amp;ldquo;redirect_uri&amp;rdquo; Bypass &lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://hackerone.com/reports/131202">Steal OAuth Tokens&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://hackerone.com/reports/861940">OAuth redirect_uri bypass using IDN homograph attack resulting in user&amp;rsquo;s access token leakage&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://hackerone.com/reports/405100">Stealing Users OAUTH Tokens via redirect_uri &lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://hackerone.com/reports/665651">Stealing Users OAuth Tokens through redirect_uri parameter&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="jwt">JWT&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://hackerone.com/reports/896649">Predictable JWT secret&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="rate-limit">Rate Limit&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8">OTP brute-force via rate limit bypass&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="ssrf">SSRF&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://salt.security/blog/api-threat-research-server-side-request-forgery-on-fintech-platform-enabled-administrative-account-takeover">Server-side Request Forgery on FinTech Platform Enabled Administrative Account Takeover&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="testing">Testing&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://tavern.readthedocs.io/en/latest/">Tavern API Testing&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/RUB-NDS/REST-Attacker">REST-Attacker&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+keeping my work organized its a win-win.&lt;/p&gt;
+&lt;p&gt;MindAPI is a mindmap which combines years of experience in testing API security.
+Its divided into two sections:&lt;/p&gt;</description></item><item><title>References</title><link>https://dsopas.github.io/MindAPI/references/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dsopas.github.io/MindAPI/references/</guid><description>&lt;p&gt;Here you can find a variaty of resources to help you out on the API security path.&lt;/p&gt;
+&lt;h2 id="talks--educational-videos--recorded-webinars"&gt;Talks / Educational Videos / Recorded Webinars&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Jmyl6GoTaao"&gt;OWASP API Security Top 10 by Erez Yalon &amp;amp; Inon Shkedy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=0ei3CdD7Ebk"&gt;Meetups at Checkmarx: An Introduction to API Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=wY6q583JWLc"&gt;Meetups at Checkmarx: API Security Concerns (Part II)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=NStTnATSysY"&gt;Don’t Worry, Be API: Addressing AppSec’s Newest Challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=YQzU8xEBiPg"&gt;Common API security pitfalls by Philippe De Ryck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=_WdDq9miqyo"&gt;API (in)Security TOP 10: Guided tour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=aQGbYfalRTA"&gt;Top 10 API Bugs (and Where to Find Them)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=fvcKwUS4PTE"&gt;How To Do Recon: API Enumeration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=viWzbPuGqpo"&gt;Hunting for bugs in GraphQL APIs (Demo)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=jyjGneKJynk"&gt;Finding Your Next Bug: GraphQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=NPDp7GHmMa0"&gt;REST in Peace: Abusing GraphQL to Attack Underlying Infrastructure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=jBi3a-dXsM8"&gt;Hidden in Plain Site: Disclosing Information via Your APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=UT7-ZVawdzA"&gt;Bad API, hAPI Hackers!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=ijalD2NkRFg"&gt;API Security 101&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=zWVRHK3ykfo"&gt;JWT Parkour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=yCUQBc2rY9Y"&gt;Finding Your First Bug: Finding Bugs Using APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=cWSu2Ja65Z4"&gt;Live API Hacking Demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=NtAnyDJhkkg"&gt;OAuth, JWT, HMAC, oh my! API security for your enterprise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=hNs8fpWfcyU"&gt;API Recon with Kiterunner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=eKj8F9bOOvk"&gt;Offensive GraphQL API Exploitation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=f5IEe5r9to8"&gt;Traversing My Way in the Internal Network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=BTlUEWHRldk"&gt;API Hacking With ChatGPT!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=1PjKr4ZZ6Ww"&gt;Web Apps: APIs’ Nightmare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=ccmQXJcc1co"&gt;The Secret Life of APIs: Latest Attack Data Shows What Your APIs Are Doing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=9kSBsyLqFgY"&gt;I’m an API Hacker and Here’s How I Hack Everything from the Military to AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=EQaGHjMIcD8"&gt;The Arazzo Specification: A Tapestry for API Workflows.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=hn4mgTu5izg"&gt;OWASP API Security Project - Paulo Silva &amp;amp; Erez Yalon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=k5HZI6CfHw4"&gt;2024 Guide: Hacking APIs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="must-read"&gt;Must read&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://owasp.org/www-project-api-security/"&gt;OWASP API Security Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html"&gt;GraphQL Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/shieldfy/API-Security-Checklist"&gt;API Security Checklist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://apisecurity.io/encyclopedia/content/api-security-encyclopedia.htm"&gt;API Security Encyclopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/inonshk/31-days-of-API-Security-Tips"&gt;31 days of API Security Tips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/04/restler.pdf"&gt;REST-ler: Automatic Intelligent REST API Fuzzing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/"&gt;How-To: Find IDOR (Insecure Direct Object Reference) Vulnerabilities for large bounty rewards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a"&gt;Hacking JSON Web Tokens (JWTs)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://huzaifa-tahir.medium.com/methods-to-bypass-rate-limit-5185e6c67ecd"&gt;Methods to Bypass Rate Limit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/odomojuli/RegExAPI"&gt;Regex For Finding Popular Keys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nopsec.com/leveraging-exposed-wadl-xml-in-burp-suite/"&gt;Leveraging Exposed WADL XML in Burp Suite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.trendmicro.com/en_us/research/20/h/how-unsecure-grpc-implementations-can-compromise-apis.html"&gt;How Unsecure gRPC Implementations Can Compromise APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.davidvassallo.me/2018/10/17/pentesting-grpc-protobuf-decoding-first-steps/"&gt;Pentesting gRPC / Protobuf : Decoding First steps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://portswigger.net/web-security/oauth"&gt;OAuth 2.0 authentication vulnerabilities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://threat.tevora.com/finding-broken-access-controls/"&gt;Finding Broken Access Controls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.assetnote.io/2021/04/05/contextual-content-discovery/"&gt;Contextual Content Discovery: You&amp;rsquo;ve forgotten about the API endpoints&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf"&gt;JWT Security Cheatsheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/"&gt;How to exploit GraphQL endpoint: introspection, query, mutations &amp;amp; tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.binarybrotherhood.io/oauth2_threat_model.html"&gt;OAuth 2.0 Threat Model Pentesting Checklist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.shiftleft.io/api-security-101-broken-user-authentication-1df2ef3420d8"&gt;API Security 101: Broken User Authentication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.xmind.net/m/CSKSWZ/"&gt;IDOR Techniques Mindmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.tenchisecurity.com/blog/thefaultinourstars"&gt;Security Implications of AWS API Gateway Lambda Authorizers and IAM Wildcard Expansion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/"&gt;SAML is insecure by design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/"&gt;How to Hack APIs in 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.assetnote.io/2021/08/29/exploiting-graphql/"&gt;Exploiting GraphQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready"&gt;The complete GraphQL Security Guide: Fixing the 13 most common GraphQL Vulnerabilities to make your API production ready&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bevigil.com/blog/exposed-payment-integration-api-keys-imperil-millions-of-users-transaction-details-and-pii/"&gt;Exposed Payment Integration API Keys Imperil Millions of Users’ Transaction Details and PII&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://checkmarx.com/blog/move-over-verbose-error-messages-graphql-apis-are-here/"&gt;Move Over Verbose Error Messages, GraphQL APIs are Here &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://checkmarx.com/blog/whats-old-becomes-new-again-csrf-attacks-on-graphql-apis/"&gt;What’s Old Becomes New Again: CSRF Attacks on GraphQL APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://checkmarx.com/blog/exploiting-graphql-query-depth/"&gt;Exploiting GraphQL Query Depth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://checkmarx.com/blog/alias-and-directive-overloading-in-graphql/"&gt;Alias and Directive Overloading in GraphQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://checkmarx.com/blog/didnt-notice-your-rate-limiting-graphql-batching-attack/"&gt;Didn’t Notice Your Rate Limiting: GraphQL Batching Attack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hookdeck.com/webhooks/guides/best-practices-deploy-webhooks-production"&gt;Best Practices When Deploying Webhooks in Production&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://spec.openapis.org/arazzo/latest.html"&gt;The Arazzo Specification&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="practice"&gt;Practice&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application"&gt;Damn Vulnerable GraphQL Application&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/marmicode/websheep"&gt;Websheep&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/DevSlop/Pixi"&gt;Pixi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/NeilMadden/apisecurityinaction"&gt;API Security in Action&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/roottusk/vapi"&gt;vAPI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications"&gt;vulnerable OAuth 2.0 applications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/h-a-c/jwt-lab"&gt;Vulnerable JWT lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/CarveSystems/vulnerable-graphql-api"&gt;Vulnerable GraphQL API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://application.security/free/owasp-top-10-API"&gt;KONTRAs OWASP Top 10 for API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/InsiderPhD/Generic-University"&gt;Vulnerable API with Laravel App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Checkmarx/capital"&gt;c{api}tal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/parasoft/parabank"&gt;ParaBank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/erev0s/VAmPI/"&gt;VAmPI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/theowni/Damn-Vulnerable-Restaurant-API-Game"&gt;Damn Vulnerable Restaurant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bnematzadeh/vulnerable-rest-api"&gt;Vulnerable REST API - OWASP 2023&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="writeups"&gt;Writeups&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e"&gt;Facebook Group Members Disclosure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pingsafe.ai/blog/how-we-could-have-listened-to-anyones-call-recordings"&gt;How we could have listened to anyone&amp;rsquo;s call recordings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account"&gt;How I Might Have Hacked Any Microsoft Account&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pingsafe.ai/blog/hacking-truecallers-guardian-application-to-track-you"&gt;How we could have tracked anyone&amp;rsquo;s live location using Truecaller&amp;rsquo;s &amp;ldquo;Guardians&amp;rdquo; app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ysamm.com/?p=629"&gt;Enumerate internal cached URLs which lead to data exposure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://alissaknight.medium.com/all-that-we-let-in-hacking-mhealth-apps-and-apis-part-2-1a55b928ce67"&gt;All That We Let In: Hacking mHealth Apps and APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pentestpartners.com/security-blog/tour-de-peloton-exposed-user-data/"&gt;Tour de Peloton: Exposed user data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pentestpartners.com/security-blog/smart-car-chargers-plug-n-play-for-hackers/"&gt;Smart car chargers. Plug-n-play for hackers?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wordfence.com/blog/2021/08/xss-vulnerability-patched-in-seopress-affects-100000-sites/"&gt;XSS Vulnerability Patched in SEOPress Affects 100,000 sites&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty"&gt;Two account takeover bugs worth $4300&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://robertheaton.com/bumble-vulnerability/"&gt;Vulnerability in Bumble dating app reveals any user&amp;rsquo;s exact location&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://infosecwriteups.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c"&gt;This is how I was able to see Private, Archived Posts/Stories of users on Instagram without following them&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pentestpartners.com/security-blog/free-brewdog-beer-with-a-side-order-of-shareholder-pii/"&gt;Free BrewDog beer with a side order of shareholder PII?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wordfence.com/blog/2022/01/unauthenticated-xss-vulnerability-patched-in-html-email-template-designer-plugin/"&gt;Unauthenticated XSS Vulnerability Patched in HTML Email Template Designer Plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pentestpartners.com/security-blog/dpd-package-sniffing/"&gt;DPD package sniffing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c"&gt;IDOR vulnerability on invoice and weak password reset leads to account take over&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/"&gt;F5 BIG-IP and iControl REST Vulnerabilities and Exposures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.troyhunt.com/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data/"&gt;How Spoutible’s Leaky API Spurted out a Deluge of Personal Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://iter.ca/post/gh-sig-pwn/"&gt;Forging signed commits on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zerodayhacker.com/crapi-walkthrough-using-ai/"&gt;crAPI walkthrough using AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zerodayhacker.com/parabank-walkthrough/"&gt;ParaBank walkthrough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zerodayhacker.com/capital-walkthrough/"&gt;c{api}tal walkthrough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zerodayhacker.com/vapi-walkthrough/"&gt;vAPI walkthrough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zerodayhacker.com/dvga-walkthrough/"&gt;DVGA walkthrough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zerodayhacker.com/vampi-walkthrough/"&gt;VAmPI walkthrough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://checkmarx.com/blog/zenly-fixes-user-data-exposure-and-account-takeover-risks/"&gt;Zenly Fixes User Data Exposure and Account Takeover Risks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="bola--idor"&gt;BOLA / IDOR&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://infosecwriteups.com/cracking-encrypted-credit-card-numbers-exposed-by-api-977c6f7b996f"&gt;Cracking Encrypted Credit Card Numbers Exposed By API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64"&gt;What is BOLA? 3-digit bounty from Topcoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://danaepp.com/attacking-predictable-guids-when-hacking-apis"&gt;Attacking predictable GUIDs when hacking APIs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="oauth"&gt;OAuth&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://hackerone.com/reports/131202"&gt;Chained Bugs to Leak Victim&amp;rsquo;s Uber&amp;rsquo;s FB Oauth Token&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hackerone.com/reports/2575"&gt;Slack OAuth2 &amp;ldquo;redirect_uri&amp;rdquo; Bypass &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hackerone.com/reports/131202"&gt;Steal OAuth Tokens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hackerone.com/reports/861940"&gt;OAuth redirect_uri bypass using IDN homograph attack resulting in user&amp;rsquo;s access token leakage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hackerone.com/reports/405100"&gt;Stealing Users OAUTH Tokens via redirect_uri &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hackerone.com/reports/665651"&gt;Stealing Users OAuth Tokens through redirect_uri parameter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="jwt"&gt;JWT&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://hackerone.com/reports/896649"&gt;Predictable JWT secret&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="rate-limit"&gt;Rate Limit&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8"&gt;OTP brute-force via rate limit bypass&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ssrf"&gt;SSRF&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://salt.security/blog/api-threat-research-server-side-request-forgery-on-fintech-platform-enabled-administrative-account-takeover"&gt;Server-side Request Forgery on FinTech Platform Enabled Administrative Account Takeover&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="testing"&gt;Testing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://tavern.readthedocs.io/en/latest/"&gt;Tavern API Testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/RUB-NDS/REST-Attacker"&gt;REST-Attacker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
