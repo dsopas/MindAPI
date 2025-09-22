@@ -18,7 +18,6 @@
     - Response often includes annotations `@odata.context` or `@odata.metadata`
     - Typically format is JSON
     - Usually the response `Content-Type` includes the string `odata`: `application/json;odata.metadata=full`
-    - 
 - GraphQL
   - Response structure
     - If there an issue with the query, an `errors` object is included in the response
