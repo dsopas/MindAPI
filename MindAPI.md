@@ -84,6 +84,7 @@
 
 #### Manual
 - site:target.tld intitle:api | developer
+- inurl:apidocs | inurl:api-docs | inurl:swagger | inurl:api-explorer site:"target.tld"
 
 ### Search for APIs
 
