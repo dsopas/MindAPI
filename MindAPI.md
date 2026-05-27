@@ -81,6 +81,12 @@
 - <https://graphql.org/learn/introspection/>
 - <https://github.com/prisma-labs/get-graphql-schema>
 
+##### gRPC
+- gRPC Server Reflection (if enabled exposes all service definitions)
+  - `grpcurl -plaintext TARGET.TLD:PORT list`
+  - [grpcurl](https://github.com/fullstorydev/grpcurl)
+  - [grpcui](https://github.com/fullstorydev/grpcui)
+
 #### Manual
 - site:target.tld intitle:api | developer
 - inurl:apidocs | inurl:api-docs | inurl:swagger | inurl:api-explorer site:"target.tld"
@@ -176,11 +182,13 @@
 #### Secrets
 - `intitle:"index of" intext:"apikey.txt" site:target.tld`
 - `allintext:"API_SECRET*" ext:env | ext:yml site:target.tld`
-- [truffleHog](https://github.com/dxa4481/truffleHog)
 - [shhgit](https://github.com/eth0izzle/shhgit)
 - [PostLeaks](https://github.com/cosad3s/postleaks?tab=readme-ov-file)
 - [Porch Pirate](https://github.com/MandConsultingGroup/porch-pirate)
 - [js-snitch](https://github.com/vavkamil/js-snitch)
+- [Trufflehog](https://github.com/trufflesecurity/trufflehog)
+- [gitleaks](https://github.com/gitleaks/gitleaks)
+- [SecretFinder](https://github.com/m4ll0k/SecretFinder)
 
 #### API Directories
 
@@ -290,6 +298,10 @@
 - `sasori start -c config.json -o sasori_output.txt`
 - <https://github.com/karthikuj/sasori>
 
+##### JSLuice
+- `cat js_files.txt | jsluice urls`
+- <https://github.com/BishopFox/jsluice>
+
 ### Supported Content Types
 
 - Play with request URL
@@ -359,6 +371,7 @@
   - [OFFAT](https://github.com/OWASP/OFFAT/)
   - [sj](https://github.com/BishopFox/sj)
   - [Autoswagger](https://github.com/intruder-io/autoswagger)
+  - [Hadrian](https://github.com/praetorian-inc/hadrian)
 - GraphQL
   - [InQL](https://github.com/doyensec/inql)
   - [graphql-path-enum](https://gitlab.com/dee-see/graphql-path-enum)
@@ -399,6 +412,14 @@
 - Weak hash algorithm
 
 #### Types of Authentication
+
+##### API Keys
+- Check if key is passed in URL (logged in server logs)
+- Check if key is passed in headers vs query params
+- Test for predictable/sequential key patterns
+- Test key scope - does one key grant access to all endpoints?
+- [Keyhacks](https://github.com/streaak/keyhacks) 
+- [all-about-apikey](https://github.com/daffainfo/all-about-apikey)
 
 ##### JWT
 
@@ -448,6 +469,10 @@
   - jwtcat
     - `python jwcat.py vulnerable <JWT>`
     - <https://github.com/aress31/jwtcat>
+  - Inject via "jku" / "x5u" header to point to attacker-controlled key
+    - jwt_tool
+      - `python3 jwt_tool.py <JWT> -X s`
+      - <https://github.com/ticarpi/jwt_tool>
 - [jwt.io](https://jwt.io/#debugger-io)
 - [JSON Web Token Attacker](https://portswigger.net/bappstore/82d6c60490b540369d6d5d01822bdf61)
 - JWTAuditor
@@ -552,6 +577,13 @@
 - Testing different HTTP methods (GET, POST, PUT, DELETE, PATCH) will allow level escalation?
   - [OFFAT](https://github.com/OWASP/OFFAT/) 
 - Enumerate/Bruteforce endpoints for getting unauthorized requests (MindAPI recon can help you here)
+- Test HTTP method override headers
+  - `X-HTTP-Method-Override: DELETE`
+  - `X-Method-Override: PUT`
+  - `_method=DELETE` (form param)
+- Test access to `/admin`, `/internal`, `/private`, `/debug` path prefixes
+- Test versioned admin paths: `/api/v1/admin`, `/api/internal/v2/users`
+- [Hadrian](https://github.com/praetorian-inc/hadrian)
 
 ### Mass Assignment
 
@@ -615,6 +647,10 @@
   - [BatchQL](https://github.com/assetnote/batchql) 
   - [graphql-cop](https://github.com/dolevf/graphql-cop)
 - [Unlimited Depth and/or Amount](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html#query-limiting-depth-amount)
+- [Field suggestions enabled (Clairvoyance)](https://github.com/nikitastupin/clairvoyance)
+  - Even with introspection disabled, field name hints leak schema info
+  - [graphql-cop](https://github.com/dolevf/graphql-cop)
+- GraphQL subscriptions exposed over WebSockets without auth
 
 ### Injection 
 
@@ -673,3 +709,11 @@
 - [BurpSuite](https://portswigger.net/burp/communitydownload)
 - [API Tester](https://apitester.org/)
 - [Scalar](https://scalar.com/)
+
+### Webhook Security
+- SSRF via attacker-controlled callback URL registration
+- Test if webhook signatures are validated (e.g. HMAC-SHA256 `X-Hub-Signature`)
+- Test replay attacks - replay a valid webhook payload with a reused signature
+- Test if `Content-Type` is enforced on incoming webhook payloads
+- Enumerate exposed webhook endpoints via `/webhooks`, `/hooks`, `/callbacks`
+- [hookdeck/webhook-testing](https://github.com/hookdeck/hookdeck-cli) - inspect/replay webhook traffic
