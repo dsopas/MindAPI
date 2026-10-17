@@ -99,7 +99,7 @@ Project Link: [https://dsopas.github.io/MindAPI/](https://dsopas.github.io/MindA
 * Paulo Silva [@pauloasilva_com](https://twitter.com/pauloasilva_com)
 
 [forks-shield]: https://img.shields.io/github/forks/dsopas/MindAPI?style=for-the-badge
-[forks-url]: hhttps://github.com/dsopas/MindAPI/network/members
+[forks-url]: https://github.com/dsopas/MindAPI/network/members
 [stars-shield]: https://img.shields.io/github/stars/dsopas/MindAPI?style=for-the-badge
 [stars-url]: https://github.com/dsopas/MindAPI/stargazers
 [issues-shield]: https://img.shields.io/github/issues/dsopas/MindAPI?style=for-the-badge
